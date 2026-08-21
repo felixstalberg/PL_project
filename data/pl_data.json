@@ -1,0 +1,450 @@
+{
+    "top_scorers": [
+        {
+            "first_name": "Martin",
+            "second_name": "Ødegaard",
+            "goals_scored": 1
+        },
+        {
+            "first_name": "Kai",
+            "second_name": "Havertz",
+            "goals_scored": 1
+        },
+        {
+            "first_name": "Bukayo",
+            "second_name": "Saka",
+            "goals_scored": 1
+        },
+        {
+            "first_name": "Leo Fuhr",
+            "second_name": "Hjelde",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Jenson",
+            "second_name": "Seelt",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Piero",
+            "second_name": "Hincapié",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Wilson",
+            "second_name": "Isidor",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "David",
+            "second_name": "Raya Martín",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Kepa",
+            "second_name": "Arrizabalaga Revuelta",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Illan",
+            "second_name": "Meslier",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Gabriel",
+            "second_name": "dos Santos Magalhães",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Archie",
+            "second_name": "Gray",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Benjamin",
+            "second_name": "White",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Cristhian",
+            "second_name": "Mosquera",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Declan",
+            "second_name": "Rice",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Eberechi",
+            "second_name": "Eze",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Noni",
+            "second_name": "Madueke",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Mikel",
+            "second_name": "Merino Zazón",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Gabriel",
+            "second_name": "Martinelli Silva",
+            "goals_scored": 0
+        },
+        {
+            "first_name": "Martín",
+            "second_name": "Zubimendi Ibáñez",
+            "goals_scored": 0
+        }
+    ],
+    "top_assists": [
+        {
+            "first_name": "Christos",
+            "second_name": "Tzolis",
+            "assists": 1
+        },
+        {
+            "first_name": "Benjamin",
+            "second_name": "White",
+            "assists": 1
+        },
+        {
+            "first_name": "Riccardo",
+            "second_name": "Calafiori",
+            "assists": 1
+        },
+        {
+            "first_name": "Jenson",
+            "second_name": "Seelt",
+            "assists": 0
+        },
+        {
+            "first_name": "Piero",
+            "second_name": "Hincapié",
+            "assists": 0
+        },
+        {
+            "first_name": "Wilson",
+            "second_name": "Isidor",
+            "assists": 0
+        },
+        {
+            "first_name": "David",
+            "second_name": "Raya Martín",
+            "assists": 0
+        },
+        {
+            "first_name": "Kepa",
+            "second_name": "Arrizabalaga Revuelta",
+            "assists": 0
+        },
+        {
+            "first_name": "Illan",
+            "second_name": "Meslier",
+            "assists": 0
+        },
+        {
+            "first_name": "Gabriel",
+            "second_name": "dos Santos Magalhães",
+            "assists": 0
+        },
+        {
+            "first_name": "Archie",
+            "second_name": "Gray",
+            "assists": 0
+        },
+        {
+            "first_name": "Cristhian",
+            "second_name": "Mosquera",
+            "assists": 0
+        },
+        {
+            "first_name": "Bukayo",
+            "second_name": "Saka",
+            "assists": 0
+        },
+        {
+            "first_name": "Declan",
+            "second_name": "Rice",
+            "assists": 0
+        },
+        {
+            "first_name": "Eberechi",
+            "second_name": "Eze",
+            "assists": 0
+        },
+        {
+            "first_name": "Martin",
+            "second_name": "Ødegaard",
+            "assists": 0
+        },
+        {
+            "first_name": "Noni",
+            "second_name": "Madueke",
+            "assists": 0
+        },
+        {
+            "first_name": "Mikel",
+            "second_name": "Merino Zazón",
+            "assists": 0
+        },
+        {
+            "first_name": "Gabriel",
+            "second_name": "Martinelli Silva",
+            "assists": 0
+        },
+        {
+            "first_name": "Martín",
+            "second_name": "Zubimendi Ibáñez",
+            "assists": 0
+        }
+    ],
+    "top_goal_involvements": [
+        {
+            "first_name": "Martin",
+            "second_name": "Ødegaard",
+            "goals_scored": 1,
+            "assists": 0,
+            "goal_involvements": 1
+        },
+        {
+            "first_name": "Bukayo",
+            "second_name": "Saka",
+            "goals_scored": 1,
+            "assists": 0,
+            "goal_involvements": 1
+        },
+        {
+            "first_name": "Christos",
+            "second_name": "Tzolis",
+            "goals_scored": 0,
+            "assists": 1,
+            "goal_involvements": 1
+        },
+        {
+            "first_name": "Kai",
+            "second_name": "Havertz",
+            "goals_scored": 1,
+            "assists": 0,
+            "goal_involvements": 1
+        },
+        {
+            "first_name": "Benjamin",
+            "second_name": "White",
+            "goals_scored": 0,
+            "assists": 1,
+            "goal_involvements": 1
+        },
+        {
+            "first_name": "Riccardo",
+            "second_name": "Calafiori",
+            "goals_scored": 0,
+            "assists": 1,
+            "goal_involvements": 1
+        },
+        {
+            "first_name": "Jenson",
+            "second_name": "Seelt",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Piero",
+            "second_name": "Hincapié",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Wilson",
+            "second_name": "Isidor",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "David",
+            "second_name": "Raya Martín",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Kepa",
+            "second_name": "Arrizabalaga Revuelta",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Illan",
+            "second_name": "Meslier",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Gabriel",
+            "second_name": "dos Santos Magalhães",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Archie",
+            "second_name": "Gray",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Cristhian",
+            "second_name": "Mosquera",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Declan",
+            "second_name": "Rice",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Eberechi",
+            "second_name": "Eze",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Noni",
+            "second_name": "Madueke",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Mikel",
+            "second_name": "Merino Zazón",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        },
+        {
+            "first_name": "Gabriel",
+            "second_name": "Martinelli Silva",
+            "goals_scored": 0,
+            "assists": 0,
+            "goal_involvements": 0
+        }
+    ],
+    "top_fpl_points": [
+        {
+            "first_name": "Benjamin",
+            "second_name": "White",
+            "total_points": 11
+        },
+        {
+            "first_name": "Martin",
+            "second_name": "Ødegaard",
+            "total_points": 11
+        },
+        {
+            "first_name": "Bukayo",
+            "second_name": "Saka",
+            "total_points": 9
+        },
+        {
+            "first_name": "Riccardo",
+            "second_name": "Calafiori",
+            "total_points": 9
+        },
+        {
+            "first_name": "David",
+            "second_name": "Raya Martín",
+            "total_points": 6
+        },
+        {
+            "first_name": "Cristhian",
+            "second_name": "Mosquera",
+            "total_points": 6
+        },
+        {
+            "first_name": "Kai",
+            "second_name": "Havertz",
+            "total_points": 6
+        },
+        {
+            "first_name": "Christos",
+            "second_name": "Tzolis",
+            "total_points": 6
+        },
+        {
+            "first_name": "Gabriel",
+            "second_name": "dos Santos Magalhães",
+            "total_points": 5
+        },
+        {
+            "first_name": "Declan",
+            "second_name": "Rice",
+            "total_points": 3
+        },
+        {
+            "first_name": "Myles",
+            "second_name": "Lewis-Skelly",
+            "total_points": 3
+        },
+        {
+            "first_name": "Frank",
+            "second_name": "Onyeka",
+            "total_points": 2
+        },
+        {
+            "first_name": "Matt",
+            "second_name": "Grimes",
+            "total_points": 2
+        },
+        {
+            "first_name": "Brandon",
+            "second_name": "Thomas-Asante",
+            "total_points": 2
+        },
+        {
+            "first_name": "Ellis",
+            "second_name": "Simms",
+            "total_points": 2
+        },
+        {
+            "first_name": "Loum",
+            "second_name": "Tchaouna",
+            "total_points": 2
+        },
+        {
+            "first_name": "Aurèle",
+            "second_name": "Amenda",
+            "total_points": 1
+        },
+        {
+            "first_name": "Jack",
+            "second_name": "Rudoni",
+            "total_points": 1
+        },
+        {
+            "first_name": "Piero",
+            "second_name": "Hincapié",
+            "total_points": 1
+        },
+        {
+            "first_name": "Carl",
+            "second_name": "Rushworth",
+            "total_points": 1
+        }
+    ]
+}
