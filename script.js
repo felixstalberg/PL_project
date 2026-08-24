@@ -1,4 +1,4 @@
-fetch("../data/pl_data.json")
+fetch("data/pl_data.json")
     .then(response => response.json())
     .then(data => {
 
