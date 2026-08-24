@@ -2,33 +2,15 @@ fetch("data/pl_data.json")
     .then(response => response.json())
     .then(data => {
 
-        // Skytteliga
-        showPlayers(
-            data.top_scorers,
-            "top-scorers",
-            "goals_scored"
-        );
+        console.log(data);
 
-        // Assistliga
-        showPlayers(
-            data.top_assists,
-            "top-assists",
-            "assists"
-        );
-
-        // Poängliga (mål + assist)
-        showPlayers(
-            data.top_goal_involvements,
-            "goal-involvements",
-            "goal_involvements"
-        );
-
-        // FPL-poängliga
-        showPlayers(
-            data.top_fpl_points,
-            "fpl-points",
-            "total_points"
-        );
+        showPlayers(data.top_scorers, "top-scorers", "goals_scored");
+        showPlayers(data.top_assists, "top-assists", "assists");
+        showPlayers(data.top_goal_involvements, "goal-involvements", "goal_involvements");
+        showPlayers(data.top_fpl_points, "fpl-points", "total_points");
+    })
+    .catch(error => {
+        console.error("FEL:", error);
     });
 
 
