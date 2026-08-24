@@ -2,19 +2,47 @@ fetch("data/pl_data.json")
     .then(response => response.json())
     .then(data => {
 
-        const topScorers = data.top_scorers;
+        // Skytteliga
+        showPlayers(
+            data.top_scorers,
+            "top-scorers",
+            "goals_scored"
+        );
 
-        const container = document.getElementById("top-scorers");
+        // Assistliga
+        showPlayers(
+            data.top_assists,
+            "top-assists",
+            "assists"
+        );
 
-        topScorers.forEach((player, index) => {
+        // Poängliga (mål + assist)
+        showPlayers(
+            data.top_goal_involvements,
+            "goal-involvements",
+            "goal_involvements"
+        );
 
-            const row = document.createElement("p");
-
-            row.textContent =
-                `${index + 1}. ${player.first_name} ${player.second_name} - ${player.goals_scored} mål`;
-
-            container.appendChild(row);
-
-        });
-
+        // FPL-poängliga
+        showPlayers(
+            data.top_fpl_points,
+            "fpl-points",
+            "total_points"
+        );
     });
+
+
+function showPlayers(players, elementId, stat) {
+
+    const container = document.getElementById(elementId);
+
+    players.forEach((player, index) => {
+
+        const row = document.createElement("p");
+
+        row.textContent =
+            `${index + 1}. ${player.first_name} ${player.second_name} - ${player[stat]}`;
+
+        container.appendChild(row);
+    });
+}
