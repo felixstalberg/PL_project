@@ -5,38 +5,31 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>PL Stats</title>
+    <title>PL Statistics</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <h1>Statistik Premier League säsongen 2026/2027</h1>
+    <h1>PL STATISTICS</h1>
 
-    <div class="stats-container">
+    <label for="stat-select">Statistik</label>
 
-        <section class="stat-box">
-            <h2>Skytteliga</h2>
-            <div id="top-scorers"></div>
-        </section>
+    <select id="stat-select">
+        <option value="top_scorers">Skytteliga</option>
+        <option value="top_assists">Assistliga</option>
+        <option value="top_goal_involvements">Poängliga</option>
+        <option value="top_fpl_points">FPL-poängliga</option>
+    </select>
 
-        <section class="stat-box">
-            <h2>Assistliga</h2>
-            <div id="top-assists"></div>
-        </section>
-
-        <section class="stat-box">
-            <h2>Poängliga</h2>
-            <div id="goal-involvements"></div>
-        </section>
-
-        <section class="stat-box">
-            <h2>FPL-poängliga</h2>
-            <div id="fpl-points"></div>
-        </section>
-
+    <div class="table-header">
+        <span>#</span>
+        <span>Spelare</span>
+        <span id="stat-name">Mål</span>
     </div>
+
+    <div id="player-list"></div>
 
     <script src="script.js"></script>
 

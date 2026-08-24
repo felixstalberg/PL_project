@@ -1,30 +1,71 @@
+let data;
+
+
 fetch("data/pl_data.json")
     .then(response => response.json())
-    .then(data => {
+    .then(jsonData => {
 
-        console.log(data);
+        data = jsonData;
 
-        showPlayers(data.top_scorers, "top-scorers", "goals_scored");
-        showPlayers(data.top_assists, "top-assists", "assists");
-        showPlayers(data.top_goal_involvements, "goal-involvements", "goal_involvements");
-        showPlayers(data.top_fpl_points, "fpl-points", "total_points");
-    })
-    .catch(error => {
-        console.error("FEL:", error);
+        showPlayers("top_scorers");
     });
 
 
-function showPlayers(players, elementId, stat) {
+const select = document.getElementById("stat-select");
 
-    const container = document.getElementById(elementId);
+select.addEventListener("change", function () {
+
+    showPlayers(this.value);
+
+});
+
+
+function showPlayers(statType) {
+
+    const players = data[statType];
+
+    const playerList = document.getElementById("player-list");
+    const statName = document.getElementById("stat-name");
+
+    playerList.innerHTML = "";
+
+
+    let stat;
+
+    if (statType === "top_scorers") {
+        stat = "goals_scored";
+        statName.textContent = "Mål";
+    }
+
+    else if (statType === "top_assists") {
+        stat = "assists";
+        statName.textContent = "Assist";
+    }
+
+    else if (statType === "top_goal_involvements") {
+        stat = "goal_involvements";
+        statName.textContent = "Mål + Assist";
+    }
+
+    else if (statType === "top_fpl_points") {
+        stat = "total_points";
+        statName.textContent = "Poäng";
+    }
+
 
     players.forEach((player, index) => {
 
-        const row = document.createElement("p");
+        const row = document.createElement("div");
 
-        row.textContent =
-            `${index + 1}. ${player.first_name} ${player.second_name} - ${player[stat]}`;
+        row.classList.add("player-row");
 
-        container.appendChild(row);
+        row.innerHTML = `
+            <span>${index + 1}</span>
+            <span>${player.first_name} ${player.second_name}</span>
+            <span>${player[stat]}</span>
+        `;
+
+        playerList.appendChild(row);
+
     });
 }

@@ -1,29 +1,49 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 40px;
+    padding: 25px 20px;
 }
 
 h1 {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 35px;
 }
 
-.stats-container {
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+select {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background: white;
+    margin-bottom: 25px;
+}
+
+.table-header,
+.player-row {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 20px;
-    max-width: 1400px;
-    margin: 0 auto;
+    grid-template-columns: 35px 1fr 60px;
+    align-items: center;
 }
 
-.stat-box {
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 20px;
+.table-header {
+    font-weight: bold;
+    padding: 10px 0;
+    border-bottom: 2px solid #ddd;
 }
 
-.stat-box h2 {
-    text-align: center;
-    margin-top: 0;
+.player-row {
+    padding: 12px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.player-row span:last-child,
+.table-header span:last-child {
+    text-align: right;
 }
