@@ -44,7 +44,7 @@ function showPlayers(statType) {
 
     else if (statType === "top_goal_involvements") {
         stat = "goal_involvements";
-        statName.textContent = "Mål + Assist";
+        statName.textContent = "Poäng";
     }
 
     else if (statType === "top_fpl_points") {
