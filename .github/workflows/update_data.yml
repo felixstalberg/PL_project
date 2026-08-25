@@ -2,7 +2,10 @@ name: Update PL data
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 7 * * *"   # 09:00 svensk tid
+    - cron: "0 14 * * *"  # 16:00 svensk tid
+    - cron: "0 18 * * *"  # 20:00 svensk tid
+    - cron: "30 21 * * *" # 23:30 svensk tid
 
   workflow_dispatch:
 
@@ -20,7 +23,7 @@ jobs:
           python-version: "3.12"
 
       - name: Installera dependencies
-        run: pip install requests pandas
+        run: pip install requests pandas matplotlib
 
       - name: Kör Python-scriptet
         run: python PL_project.py

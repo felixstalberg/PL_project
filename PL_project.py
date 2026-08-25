@@ -28,30 +28,23 @@ team_features = pd.DataFrame(data["teams"])
 table = team_features.sort_values("position")
 
 #skriv ut en tabell som innehåller namn, position, spelade matcher osv
-#print(sorted_table_position[["position", "name", "played", "win", "draw", "loss", "points"]].to_string(index=False))
+print(table[["position", "name", "played", "win", "draw", "loss", "points"]].to_string(index=False))
 
 
 "Skytteliga (Topp 20)"
 top_scorers = player_features.sort_values("goals_scored", ascending=False).head(20)
 
-#skapa json-fil med topp 20
-#top_scorers[["first_name", "second_name", "goals_scored"]].to_json("pl_data.json", orient="records")
-
-#print(sorted_goals_scored[["first_name", "second_name", "goals_scored"]].to_string(index=False))
-
 "Assistliga (Topp 20)"
 top_assists = player_features.sort_values("assists", ascending=False).head(20)
-#print(sorted_assists[["first_name", "second_name", "assists"]].to_string(index=False))
 
 "Poängliga (Topp 20)"
 player_features["goal_involvements"] = player_features["goals_scored"] + player_features["assists"]
 top_goal_involvements = player_features.sort_values("goal_involvements", ascending=False).head(20)
-#print(sorted_goal_involvements[["first_name", "second_name", "goals_scored", "assists", "goal_involvements"]].to_string(index=False))
 
 "FPL - poängliga (Topp 20)"
 top_fpl_points = player_features.sort_values("total_points", ascending=False).head(20)
-#print(sorted_points[["first_name", "second_name", "total_points"]])
 
+#skapa json fil med topp 20 för de olika "ligorna"
 pl_data = {
     "top_scorers": top_scorers[
         ["first_name", "second_name", "goals_scored"]
