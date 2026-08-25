@@ -2,10 +2,17 @@ name: Update PL data
 
 on:
   schedule:
-    - cron: "0 7 * * *"   # 09:00 svensk tid
-    - cron: "0 14 * * *"  # 16:00 svensk tid
-    - cron: "0 18 * * *"  # 20:00 svensk tid
-    - cron: "30 21 * * *" # 23:30 svensk tid
+    - cron: "7 9 * * *"
+      timezone: "Europe/Stockholm"
+
+    - cron: "7 16 * * *"
+      timezone: "Europe/Stockholm"
+
+    - cron: "7 20 * * *"
+      timezone: "Europe/Stockholm"
+
+    - cron: "37 23 * * *"
+      timezone: "Europe/Stockholm"
 
   workflow_dispatch:
 
