@@ -1,0 +1,34 @@
+name: Update PL data
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Hämta repository
+        uses: actions/checkout@v4
+
+      - name: Installera Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installera dependencies
+        run: pip install requests pandas
+
+      - name: Kör Python-scriptet
+        run: python PL_project.py
+
+      - name: Spara ny data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/pl_data.json
+          git commit -m "Update PL data" || echo "No changes"
+          git push
