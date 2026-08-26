@@ -372,8 +372,8 @@
             "total_points": 14
         },
         {
-            "first_name": "Michael",
-            "second_name": "Kayode",
+            "first_name": "Anton",
+            "second_name": "Stach",
             "total_points": 13
         },
         {
@@ -382,8 +382,8 @@
             "total_points": 13
         },
         {
-            "first_name": "Anton",
-            "second_name": "Stach",
+            "first_name": "Michael",
+            "second_name": "Kayode",
             "total_points": 13
         },
         {
@@ -392,18 +392,13 @@
             "total_points": 12
         },
         {
-            "first_name": "João Pedro",
-            "second_name": "Junqueira de Jesus",
-            "total_points": 11
-        },
-        {
             "first_name": "Kiernan",
             "second_name": "Dewsbury-Hall",
             "total_points": 11
         },
         {
-            "first_name": "Benjamin",
-            "second_name": "White",
+            "first_name": "João Pedro",
+            "second_name": "Junqueira de Jesus",
             "total_points": 11
         },
         {
@@ -412,18 +407,13 @@
             "total_points": 11
         },
         {
+            "first_name": "Benjamin",
+            "second_name": "White",
+            "total_points": 11
+        },
+        {
             "first_name": "Marcus",
             "second_name": "Tavernier",
-            "total_points": 10
-        },
-        {
-            "first_name": "Konstantinos",
-            "second_name": "Tzolakis",
-            "total_points": 10
-        },
-        {
-            "first_name": "Marc",
-            "second_name": "Guéhi",
             "total_points": 10
         },
         {
@@ -432,8 +422,18 @@
             "total_points": 10
         },
         {
+            "first_name": "Konstantinos",
+            "second_name": "Tzolakis",
+            "total_points": 10
+        },
+        {
             "first_name": "James",
             "second_name": "Justin",
+            "total_points": 10
+        },
+        {
+            "first_name": "Marc",
+            "second_name": "Guéhi",
             "total_points": 10
         },
         {
@@ -442,8 +442,8 @@
             "total_points": 10
         },
         {
-            "first_name": "Anthony",
-            "second_name": "Elanga",
+            "first_name": "Bukayo",
+            "second_name": "Saka",
             "total_points": 9
         }
     ]
