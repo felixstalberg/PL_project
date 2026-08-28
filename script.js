@@ -105,4 +105,17 @@ statsButton.addEventListener("click", function () {
     homePage.style.display = "none";
     statsPage.style.display = "block";
 
+    history.pushState({ page: "stats" }, "", "#stats");
+
+    window.scrollTo(0, 0);
+
+});
+
+window.addEventListener("popstate", function () {
+
+    homePage.style.display = "block";
+    statsPage.style.display = "none";
+
+    window.scrollTo(0, 0);
+
 });
