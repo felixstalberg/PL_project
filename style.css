@@ -62,3 +62,7 @@ select {
 .table-header span:last-child {
     text-align: right;
 }
+
+#stats-page {
+    display: none;
+}
