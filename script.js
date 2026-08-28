@@ -95,3 +95,14 @@ function showTable() {
 
     });
 }
+
+const statsButton = document.getElementById("stats-button");
+const homePage = document.getElementById("home-page");
+const statsPage = document.getElementById("stats-page");
+
+statsButton.addEventListener("click", function () {
+
+    homePage.style.display = "none";
+    statsPage.style.display = "block";
+
+});
