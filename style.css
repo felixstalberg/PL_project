@@ -14,15 +14,22 @@ h2 {
 }
 
 #table-list {
-    max-width: 400px;
+    width: 90%;
+    max-width: 500px;
     margin: 0 auto;
-    text-align: center;
 }
 
 .table-row {
     display: grid;
     grid-template-columns: 40px 1fr;
-    padding: 8px 0;
+    padding: 10px 5px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+.table-row span:first-child {
+    text-align: center;
+    font-weight: bold;
 }
 
 label {
