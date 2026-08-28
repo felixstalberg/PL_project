@@ -8,6 +8,7 @@ fetch("data/pl_data.json")
         data = jsonData;
 
         showPlayers("top_scorers");
+        showTable();
     });
 
 
@@ -66,6 +67,31 @@ function showPlayers(statType) {
         `;
 
         playerList.appendChild(row);
+
+    });
+}
+
+
+function showTable() {
+
+    const table = data.table;
+
+    const tableList = document.getElementById("table-list");
+
+    tableList.innerHTML = "";
+
+    table.forEach((team) => {
+
+        const row = document.createElement("div");
+
+        row.classList.add("table-row");
+
+        row.innerHTML = `
+            <span>${team.position}</span>
+            <span>${team.name}</span>
+        `;
+
+        tableList.appendChild(row);
 
     });
 }

@@ -21,15 +21,8 @@ team_features = pd.DataFrame(data["teams"])
 #print(player_features.columns.tolist())
 #print(team_features.columns.tolist())
 
-
 "Tabell"
-
-#sortera team_features efter position
-table = team_features.sort_values("position")
-
-#skriv ut en tabell som innehåller namn, position, spelade matcher osv
-print(table[["position", "name", "played", "win", "draw", "loss", "points"]].to_string(index=False))
-
+table = team_features.sort_values("position") #sortera team_features efter position
 
 "Skytteliga (Topp 20)"
 top_scorers = player_features.sort_values("goals_scored", ascending=False).head(20)
@@ -60,6 +53,9 @@ pl_data = {
 
     "top_fpl_points": top_fpl_points[
         ["first_name", "second_name", "total_points"]
+    ].to_dict(orient="records"),
+
+    "table": table[["position", "name"]
     ].to_dict(orient="records")
 }
 
