@@ -16,6 +16,7 @@ h2 {
 #table-list {
     max-width: 400px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .table-row {
@@ -65,4 +66,11 @@ select {
 
 #stats-page {
     display: none;
+}
+
+#stats-button {
+    display: block;
+    margin: 30px auto;
+    padding: 12px 30px;
+    font-size: 16px;
 }
