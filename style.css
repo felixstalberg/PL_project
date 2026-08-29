@@ -75,9 +75,19 @@ select {
 
 .menu-button {
     display: block;
-    margin: 30px auto;
-    padding: 15px 50px; /* storlek knapp */
-    font-size: 18px; /* storlek text */
+    margin: 20px auto;
+    padding: 15px 60px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #3D195B;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.menu-button:hover {
+    background-color: #5A2A7A;
 }
 
 #home-page {
