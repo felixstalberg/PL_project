@@ -18,9 +18,6 @@ player_features = pd.DataFrame(data["elements"])
 #ta ut alla features som finns för lagen
 team_features = pd.DataFrame(data["teams"])
 
-#print(player_features.columns.tolist())
-#print(team_features.columns.tolist())
-
 "Tabell"
 table = team_features.sort_values("position") #sortera team_features efter position
 
