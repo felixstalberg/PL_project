@@ -93,3 +93,9 @@ select {
     display: none;
     min-height: 100vh;
 }
+
+.pl-logo {
+    display: block;
+    width: 150px;
+    margin: 0 auto 30px auto;
+}
