@@ -96,26 +96,36 @@ function showTable() {
     });
 }
 
-const statsButton = document.getElementById("stats-button");
 const homePage = document.getElementById("home-page");
+const tablePage = document.getElementById("table-page");
 const statsPage = document.getElementById("stats-page");
 
-statsButton.addEventListener("click", function () {
+const tableButton = document.getElementById("table-button");
+const statsButton = document.getElementById("stats-button");
+
+
+function showPage(page) {
 
     homePage.style.display = "none";
-    statsPage.style.display = "block";
+    tablePage.style.display = "none";
+    statsPage.style.display = "none";
 
-    history.pushState({ page: "stats" }, "", "#stats");
+    page.style.display = "block";
 
     window.scrollTo(0, 0);
+
+}
+
+
+tableButton.addEventListener("click", function () {
+
+    showPage(tablePage);
 
 });
 
-window.addEventListener("popstate", function () {
 
-    homePage.style.display = "block";
-    statsPage.style.display = "none";
+statsButton.addEventListener("click", function () {
 
-    window.scrollTo(0, 0);
+    showPage(statsPage);
 
 });
