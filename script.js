@@ -121,11 +121,21 @@ tableButton.addEventListener("click", function () {
 
     showPage(tablePage);
 
+    history.pushState({ page: "table" }, "", "#table");
+
 });
 
 
 statsButton.addEventListener("click", function () {
 
     showPage(statsPage);
+    
+    history.pushState({ page: "stats" }, "", "#stats");
+
+});
+
+window.addEventListener("popstate", function () {
+
+    showPage(homePage);
 
 });

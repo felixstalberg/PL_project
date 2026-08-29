@@ -75,9 +75,9 @@ select {
     display: none;
 }
 
-#stats-button {
+.menu-button {
     display: block;
     margin: 30px auto;
-    padding: 12px 30px;
-    font-size: 16px;
+    padding: 15px 50px; /* storlek knapp */
+    font-size: 18px; /* storlek text */
 }
