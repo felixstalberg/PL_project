@@ -73,6 +73,12 @@ select {
 
 #stats-page {
     display: none;
+    background-color: #00FF85;
+}
+
+#table-page {
+    display: none;
+    background-color: #00FF85;
 }
 
 .menu-button {
@@ -80,4 +86,8 @@ select {
     margin: 30px auto;
     padding: 15px 50px; /* storlek knapp */
     font-size: 18px; /* storlek text */
+}
+
+#home-page {
+    background-color: #00FF85;
 }
