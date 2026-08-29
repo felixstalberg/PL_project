@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 25px 20px;
+    color: #3D195B /* textfärg */
 }
 
 h1 {
@@ -71,16 +72,6 @@ select {
     text-align: right;
 }
 
-#stats-page {
-    display: none;
-    background-color: #00FF85;
-}
-
-#table-page {
-    display: none;
-    background-color: #00FF85;
-}
-
 .menu-button {
     display: block;
     margin: 30px auto;
@@ -90,4 +81,17 @@ select {
 
 #home-page {
     background-color: #00FF85;
+    min-height: 100vh;
+}
+
+#stats-page {
+    display: none;
+    background-color: #00FF85;
+    min-height: 100vh;
+}
+
+#table-page {
+    display: none;
+    background-color: #00FF85;
+    min-height: 100vh;
 }
