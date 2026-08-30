@@ -367,11 +367,6 @@
             "total_points": 18
         },
         {
-            "first_name": "Anthony",
-            "second_name": "Elanga",
-            "total_points": 17
-        },
-        {
             "first_name": "Maxim",
             "second_name": "De Cuyper",
             "total_points": 17
@@ -382,14 +377,14 @@
             "total_points": 17
         },
         {
-            "first_name": "John",
-            "second_name": "Egan",
+            "first_name": "Anthony",
+            "second_name": "Elanga",
             "total_points": 17
         },
         {
-            "first_name": "Nobel",
-            "second_name": "Mendy",
-            "total_points": 16
+            "first_name": "John",
+            "second_name": "Egan",
+            "total_points": 17
         },
         {
             "first_name": "Jack",
@@ -397,14 +392,24 @@
             "total_points": 16
         },
         {
-            "first_name": "Erling",
-            "second_name": "Haaland",
-            "total_points": 15
+            "first_name": "Nobel",
+            "second_name": "Mendy",
+            "total_points": 16
         },
         {
             "first_name": "Morgan",
             "second_name": "Gibbs-White",
             "total_points": 15
+        },
+        {
+            "first_name": "Erling",
+            "second_name": "Haaland",
+            "total_points": 15
+        },
+        {
+            "first_name": "Joško",
+            "second_name": "Gvardiol",
+            "total_points": 14
         },
         {
             "first_name": "Mamadou",
@@ -422,13 +427,8 @@
             "total_points": 14
         },
         {
-            "first_name": "Joško",
-            "second_name": "Gvardiol",
-            "total_points": 14
-        },
-        {
-            "first_name": "Anton",
-            "second_name": "Stach",
+            "first_name": "Michael",
+            "second_name": "Kayode",
             "total_points": 13
         },
         {
@@ -437,13 +437,13 @@
             "total_points": 13
         },
         {
-            "first_name": "Michael",
-            "second_name": "Kayode",
+            "first_name": "Anton",
+            "second_name": "Stach",
             "total_points": 13
         },
         {
-            "first_name": "Iliman",
-            "second_name": "Ndiaye",
+            "first_name": "Cole",
+            "second_name": "Palmer",
             "total_points": 13
         }
     ],
