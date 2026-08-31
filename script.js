@@ -2,10 +2,33 @@ let data;
 
 let showAllPlayers = false;
 
+
+// =========================
+// ELEMENT
+// =========================
+
 const gameweekSelect = document.getElementById("gameweek-select");
 const matchesList = document.getElementById("matches-list");
 
-// Hämta data från JSON-filen
+const select = document.getElementById("stat-select");
+const showMoreButton = document.getElementById("show-more-button");
+
+const homePage = document.getElementById("home-page");
+const tablePage = document.getElementById("table-page");
+const statsPage = document.getElementById("stats-page");
+const matchesPage = document.getElementById("matches-page");
+const analysisPage = document.getElementById("analysis-page");
+
+const tableButton = document.getElementById("table-button");
+const statsButton = document.getElementById("stats-button");
+const matchesButton = document.getElementById("matches-button");
+const analysisButton = document.getElementById("analysis-button");
+
+
+// =========================
+// HÄMTA DATA
+// =========================
+
 fetch("data/pl_data.json")
     .then(response => response.json())
     .then(jsonData => {
@@ -16,7 +39,9 @@ fetch("data/pl_data.json")
         showTable();
 
         // Skapa GW-alternativen automatiskt
-        const gameweeks = [...new Set(data.matches.map(match => match.gameweek))];
+        const gameweeks = [...new Set(
+            data.matches.map(match => match.gameweek)
+        )];
 
         gameweeks.forEach((gameweek) => {
 
@@ -37,8 +62,6 @@ fetch("data/pl_data.json")
 // STATISTIK
 // =========================
 
-const select = document.getElementById("stat-select");
-
 select.addEventListener("change", function () {
 
     showAllPlayers = false;
@@ -54,7 +77,6 @@ function showPlayers(statType) {
 
     const playerList = document.getElementById("player-list");
     const statName = document.getElementById("stat-name");
-    const showMoreButton = document.getElementById("show-more-button");
 
     playerList.innerHTML = "";
 
@@ -113,8 +135,6 @@ function showPlayers(statType) {
     }
 }
 
-
-const showMoreButton = document.getElementById("show-more-button");
 
 showMoreButton.addEventListener("click", function () {
 
@@ -176,7 +196,7 @@ function showMatches(gameweek) {
 
         row.innerHTML = `
             <span>${match.home_team}</span>
-            <strong>${match.home_score} - ${match.away_score}</strong>
+            <strong>${match.team_h_score ?? "-"} - ${match.team_a_score ?? "-"}</strong>
             <span>${match.away_team}</span>
         `;
 
@@ -197,19 +217,6 @@ gameweekSelect.addEventListener("change", function () {
 // =========================
 // SIDOR
 // =========================
-
-const homePage = document.getElementById("home-page");
-const tablePage = document.getElementById("table-page");
-const statsPage = document.getElementById("stats-page");
-const matchesPage = document.getElementById("matches-page");
-const analysisPage = document.getElementById("analysis-page");
-
-
-const tableButton = document.getElementById("table-button");
-const statsButton = document.getElementById("stats-button");
-const matchesButton = document.getElementById("matches-button");
-const analysisButton = document.getElementById("analysis-button");
-
 
 function showPage(page) {
 
