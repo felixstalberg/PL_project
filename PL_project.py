@@ -42,6 +42,9 @@ matches = matches.merge(away_teams, on="team_a")
 
 matches = matches.drop(columns=["team_h", "team_a"])
 
+matches = matches.astype(object).where(pd.notna(matches), None)
+print(matches)
+
 "Tabell"
 table = team_features.sort_values("position") #sortera team_features efter position
 
