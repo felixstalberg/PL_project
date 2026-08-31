@@ -1,5 +1,7 @@
 let data;
 
+let showAllPlayers = false;
+
 
 fetch("data/pl_data.json")
     .then(response => response.json())
@@ -16,6 +18,8 @@ const select = document.getElementById("stat-select");
 
 select.addEventListener("change", function () {
 
+    showAllPlayers = false;
+
     showPlayers(this.value);
 
 });
@@ -27,6 +31,7 @@ function showPlayers(statType) {
 
     const playerList = document.getElementById("player-list");
     const statName = document.getElementById("stat-name");
+    const showMoreButton = document.getElementById("show-more-button");
 
     playerList.innerHTML = "";
 
@@ -54,7 +59,12 @@ function showPlayers(statType) {
     }
 
 
-    players.forEach((player, index) => {
+    const playersToShow = showAllPlayers
+        ? players.slice(0, 20)
+        : players.slice(0, 10);
+
+
+    playersToShow.forEach((player, index) => {
 
         const row = document.createElement("div");
 
@@ -69,7 +79,27 @@ function showPlayers(statType) {
         playerList.appendChild(row);
 
     });
+
+
+    if (showAllPlayers) {
+        showMoreButton.style.display = "none";
+    }
+
+    else {
+        showMoreButton.style.display = "block";
+    }
 }
+
+
+const showMoreButton = document.getElementById("show-more-button");
+
+showMoreButton.addEventListener("click", function () {
+
+    showAllPlayers = true;
+
+    showPlayers(select.value);
+
+});
 
 
 function showTable() {
@@ -95,6 +125,7 @@ function showTable() {
 
     });
 }
+
 
 const homePage = document.getElementById("home-page");
 const tablePage = document.getElementById("table-page");
@@ -133,6 +164,7 @@ statsButton.addEventListener("click", function () {
     history.pushState({ page: "stats" }, "", "#stats");
 
 });
+
 
 window.addEventListener("popstate", function () {
 
