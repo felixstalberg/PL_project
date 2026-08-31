@@ -2,6 +2,8 @@ let data;
 
 let showAllPlayers = false;
 
+const gameweekSelect = document.getElementById("gameweek-select");
+const matchesList = document.getElementById("matches-list");
 
 // Hämta data från JSON-filen
 fetch("data/pl_data.json")
@@ -156,10 +158,6 @@ function showTable() {
 // =========================
 // MATCHER
 // =========================
-
-const gameweekSelect = document.getElementById("gameweek-select");
-const matchesList = document.getElementById("matches-list");
-
 
 function showMatches(gameweek) {
 
