@@ -131,10 +131,12 @@ const homePage = document.getElementById("home-page");
 const tablePage = document.getElementById("table-page");
 const statsPage = document.getElementById("stats-page");
 const matchesPage = document.getElementById("matches-page");
+const analysisPage = document.getElementById("analysis-page");
 
 const tableButton = document.getElementById("table-button");
 const statsButton = document.getElementById("stats-button");
 const matchesButton = document.getElementById("matches-button");
+const analysisButton = document.getElementById("analysis-button");
 
 function showPage(page) {
 
@@ -142,6 +144,7 @@ function showPage(page) {
     tablePage.style.display = "none";
     statsPage.style.display = "none";
     matchesPage.style.display = "none";
+    analysisPage.style.display = "none";
 
     page.style.display = "block";
 
@@ -177,6 +180,15 @@ matchesButton.addEventListener("click", function () {
     showPage(matchesPage);
 
     history.pushState({ page: "matches" }, "", "#matches");
+
+});
+
+
+analysisButton.addEventListener("click", function () {
+
+    showPage(analysisPage);
+
+    history.pushState({ page: "analysis" }, "", "#analysis");
 
 });
 
