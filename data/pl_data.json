@@ -357,18 +357,8 @@
             "total_points": 22
         },
         {
-            "first_name": "Semi",
-            "second_name": "Ajayi",
-            "total_points": 20
-        },
-        {
             "first_name": "Konstantinos",
             "second_name": "Tzolakis",
-            "total_points": 20
-        },
-        {
-            "first_name": "João Pedro",
-            "second_name": "Junqueira de Jesus",
             "total_points": 20
         },
         {
@@ -377,9 +367,14 @@
             "total_points": 20
         },
         {
-            "first_name": "Mamadou",
-            "second_name": "Sangaré",
-            "total_points": 18
+            "first_name": "João Pedro",
+            "second_name": "Junqueira de Jesus",
+            "total_points": 20
+        },
+        {
+            "first_name": "Semi",
+            "second_name": "Ajayi",
+            "total_points": 20
         },
         {
             "first_name": "James",
@@ -387,13 +382,18 @@
             "total_points": 18
         },
         {
-            "first_name": "Anton",
-            "second_name": "Stach",
-            "total_points": 17
+            "first_name": "Mamadou",
+            "second_name": "Sangaré",
+            "total_points": 18
         },
         {
             "first_name": "Maxim",
             "second_name": "De Cuyper",
+            "total_points": 17
+        },
+        {
+            "first_name": "John",
+            "second_name": "Egan",
             "total_points": 17
         },
         {
@@ -407,14 +407,9 @@
             "total_points": 17
         },
         {
-            "first_name": "John",
-            "second_name": "Egan",
+            "first_name": "Anton",
+            "second_name": "Stach",
             "total_points": 17
-        },
-        {
-            "first_name": "Jack",
-            "second_name": "Hinshelwood",
-            "total_points": 16
         },
         {
             "first_name": "Nobel",
@@ -427,23 +422,28 @@
             "total_points": 16
         },
         {
+            "first_name": "Jack",
+            "second_name": "Hinshelwood",
+            "total_points": 16
+        },
+        {
             "first_name": "Pascal",
             "second_name": "Groß",
             "total_points": 15
         },
         {
-            "first_name": "Morgan",
-            "second_name": "Gibbs-White",
-            "total_points": 15
-        },
-        {
-            "first_name": "Erling",
-            "second_name": "Haaland",
+            "first_name": "Granit",
+            "second_name": "Xhaka",
             "total_points": 15
         },
         {
             "first_name": "Michael",
             "second_name": "Kayode",
+            "total_points": 15
+        },
+        {
+            "first_name": "Erling",
+            "second_name": "Haaland",
             "total_points": 15
         }
     ],
@@ -665,8 +665,8 @@
         },
         {
             "gameweek": 2,
-            "team_h_score": null,
-            "team_a_score": null,
+            "team_h_score": 0.0,
+            "team_a_score": 0.0,
             "home_team": "Aston Villa",
             "away_team": "Arsenal"
         },
