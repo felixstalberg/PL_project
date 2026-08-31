@@ -130,16 +130,18 @@ function showTable() {
 const homePage = document.getElementById("home-page");
 const tablePage = document.getElementById("table-page");
 const statsPage = document.getElementById("stats-page");
+const matchesPage = document.getElementById("matches-page");
 
 const tableButton = document.getElementById("table-button");
 const statsButton = document.getElementById("stats-button");
-
+const matchesButton = document.getElementById("matches-button");
 
 function showPage(page) {
 
     homePage.style.display = "none";
     tablePage.style.display = "none";
     statsPage.style.display = "none";
+    matchesPage.style.display = "none";
 
     page.style.display = "block";
 
@@ -166,6 +168,15 @@ statsButton.addEventListener("click", function () {
     showPage(statsPage);
     
     history.pushState({ page: "stats" }, "", "#stats");
+
+});
+
+
+matchesButton.addEventListener("click", function () {
+
+    showPage(matchesPage);
+
+    history.pushState({ page: "matches" }, "", "#matches");
 
 });
 
