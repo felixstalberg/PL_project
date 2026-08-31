@@ -159,6 +159,10 @@ tableButton.addEventListener("click", function () {
 
 statsButton.addEventListener("click", function () {
 
+    showAllPlayers = false;
+    select.value = "top_scorers";
+    showPlayers("top_scorers");
+
     showPage(statsPage);
     
     history.pushState({ page: "stats" }, "", "#stats");
