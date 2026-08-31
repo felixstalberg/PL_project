@@ -3,6 +3,7 @@ let data;
 let showAllPlayers = false;
 
 
+// Hämta data från JSON-filen
 fetch("data/pl_data.json")
     .then(response => response.json())
     .then(jsonData => {
@@ -11,8 +12,28 @@ fetch("data/pl_data.json")
 
         showPlayers("top_scorers");
         showTable();
+
+        // Skapa GW-alternativen automatiskt
+        const gameweeks = [...new Set(data.matches.map(match => match.gameweek))];
+
+        gameweeks.forEach((gameweek) => {
+
+            const option = document.createElement("option");
+
+            option.value = gameweek;
+            option.textContent = `GW ${gameweek}`;
+
+            gameweekSelect.appendChild(option);
+
+        });
+
+        showMatches(1);
     });
 
+
+// =========================
+// STATISTIK
+// =========================
 
 const select = document.getElementById("stat-select");
 
@@ -102,6 +123,10 @@ showMoreButton.addEventListener("click", function () {
 });
 
 
+// =========================
+// TABELL
+// =========================
+
 function showTable() {
 
     const table = data.table;
@@ -124,8 +149,56 @@ function showTable() {
         tableList.appendChild(row);
 
     });
+
 }
 
+
+// =========================
+// MATCHER
+// =========================
+
+const gameweekSelect = document.getElementById("gameweek-select");
+const matchesList = document.getElementById("matches-list");
+
+
+function showMatches(gameweek) {
+
+    const matches = data.matches.filter(
+        match => match.gameweek == gameweek
+    );
+
+    matchesList.innerHTML = "";
+
+
+    matches.forEach((match) => {
+
+        const row = document.createElement("div");
+
+        row.classList.add("match-row");
+
+        row.innerHTML = `
+            <span>${match.home_team}</span>
+            <strong>${match.home_score} - ${match.away_score}</strong>
+            <span>${match.away_team}</span>
+        `;
+
+        matchesList.appendChild(row);
+
+    });
+
+}
+
+
+gameweekSelect.addEventListener("change", function () {
+
+    showMatches(this.value);
+
+});
+
+
+// =========================
+// SIDOR
+// =========================
 
 const homePage = document.getElementById("home-page");
 const tablePage = document.getElementById("table-page");
@@ -133,10 +206,12 @@ const statsPage = document.getElementById("stats-page");
 const matchesPage = document.getElementById("matches-page");
 const analysisPage = document.getElementById("analysis-page");
 
+
 const tableButton = document.getElementById("table-button");
 const statsButton = document.getElementById("stats-button");
 const matchesButton = document.getElementById("matches-button");
 const analysisButton = document.getElementById("analysis-button");
+
 
 function showPage(page) {
 
@@ -153,6 +228,10 @@ function showPage(page) {
 }
 
 
+// =========================
+// NAVIGATION
+// =========================
+
 tableButton.addEventListener("click", function () {
 
     showPage(tablePage);
@@ -165,17 +244,23 @@ tableButton.addEventListener("click", function () {
 statsButton.addEventListener("click", function () {
 
     showAllPlayers = false;
+
     select.value = "top_scorers";
+
     showPlayers("top_scorers");
 
     showPage(statsPage);
-    
+
     history.pushState({ page: "stats" }, "", "#stats");
 
 });
 
 
 matchesButton.addEventListener("click", function () {
+
+    gameweekSelect.value = "1";
+
+    showMatches(1);
 
     showPage(matchesPage);
 

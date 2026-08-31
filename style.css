@@ -117,3 +117,30 @@ select {
     width: 250px;
     margin: 0 auto 1px auto;
 }
+
+#matches-list {
+    width: 90%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.match-row {
+    display: grid;
+    grid-template-columns: 1fr 70px 1fr;
+    align-items: center;
+    padding: 12px 5px;
+    border-bottom: 1px solid #ddd;
+}
+
+.match-row span:first-child {
+    text-align: right;
+}
+
+.match-row strong {
+    text-align: center;
+}
+
+.match-row span:last-child {
+    text-align: left;
+    padding-left: 15px;
+}
