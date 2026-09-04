@@ -357,8 +357,8 @@
             "total_points": 22
         },
         {
-            "first_name": "Riccardo",
-            "second_name": "Calafiori",
+            "first_name": "Bukayo",
+            "second_name": "Saka",
             "total_points": 20
         },
         {
@@ -372,18 +372,18 @@
             "total_points": 20
         },
         {
-            "first_name": "Semi",
-            "second_name": "Ajayi",
-            "total_points": 20
-        },
-        {
             "first_name": "Konstantinos",
             "second_name": "Tzolakis",
             "total_points": 20
         },
         {
-            "first_name": "Bukayo",
-            "second_name": "Saka",
+            "first_name": "Semi",
+            "second_name": "Ajayi",
+            "total_points": 20
+        },
+        {
+            "first_name": "Riccardo",
+            "second_name": "Calafiori",
             "total_points": 20
         },
         {
@@ -402,23 +402,8 @@
             "total_points": 18
         },
         {
-            "first_name": "Cody",
-            "second_name": "Gakpo",
-            "total_points": 17
-        },
-        {
-            "first_name": "John",
-            "second_name": "Egan",
-            "total_points": 17
-        },
-        {
             "first_name": "Maxim",
             "second_name": "De Cuyper",
-            "total_points": 17
-        },
-        {
-            "first_name": "Anthony",
-            "second_name": "Elanga",
             "total_points": 17
         },
         {
@@ -427,8 +412,23 @@
             "total_points": 17
         },
         {
-            "first_name": "Jack",
-            "second_name": "Hinshelwood",
+            "first_name": "John",
+            "second_name": "Egan",
+            "total_points": 17
+        },
+        {
+            "first_name": "Anthony",
+            "second_name": "Elanga",
+            "total_points": 17
+        },
+        {
+            "first_name": "Cody",
+            "second_name": "Gakpo",
+            "total_points": 17
+        },
+        {
+            "first_name": "Keane",
+            "second_name": "Lewis-Potter",
             "total_points": 16
         },
         {
@@ -437,13 +437,13 @@
             "total_points": 16
         },
         {
-            "first_name": "Keane",
-            "second_name": "Lewis-Potter",
+            "first_name": "Jack",
+            "second_name": "Hinshelwood",
             "total_points": 16
         },
         {
-            "first_name": "Pascal",
-            "second_name": "Groß",
+            "first_name": "Granit",
+            "second_name": "Xhaka",
             "total_points": 15
         }
     ],
