@@ -377,11 +377,6 @@
             "total_points": 20
         },
         {
-            "first_name": "Konstantinos",
-            "second_name": "Tzolakis",
-            "total_points": 20
-        },
-        {
             "first_name": "João Pedro",
             "second_name": "Junqueira de Jesus",
             "total_points": 20
@@ -397,6 +392,16 @@
             "total_points": 20
         },
         {
+            "first_name": "Konstantinos",
+            "second_name": "Tzolakis",
+            "total_points": 20
+        },
+        {
+            "first_name": "Benjamin",
+            "second_name": "White",
+            "total_points": 18
+        },
+        {
             "first_name": "James",
             "second_name": "Tarkowski",
             "total_points": 18
@@ -407,18 +412,8 @@
             "total_points": 18
         },
         {
-            "first_name": "Benjamin",
-            "second_name": "White",
-            "total_points": 18
-        },
-        {
             "first_name": "Anthony",
             "second_name": "Elanga",
-            "total_points": 17
-        },
-        {
-            "first_name": "Anton",
-            "second_name": "Stach",
             "total_points": 17
         },
         {
@@ -432,18 +427,23 @@
             "total_points": 17
         },
         {
+            "first_name": "Anton",
+            "second_name": "Stach",
+            "total_points": 17
+        },
+        {
             "first_name": "Jack",
             "second_name": "Hinshelwood",
             "total_points": 16
         },
         {
-            "first_name": "Keane",
-            "second_name": "Lewis-Potter",
+            "first_name": "Nobel",
+            "second_name": "Mendy",
             "total_points": 16
         },
         {
-            "first_name": "Nobel",
-            "second_name": "Mendy",
+            "first_name": "Keane",
+            "second_name": "Lewis-Potter",
             "total_points": 16
         }
     ],
