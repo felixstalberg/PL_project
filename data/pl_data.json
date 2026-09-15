@@ -450,59 +450,59 @@
     "table": [
         {
             "position": 1,
-            "name": "Man City"
-        },
-        {
-            "position": 2,
             "name": "Arsenal"
         },
         {
+            "position": 2,
+            "name": "Man City"
+        },
+        {
             "position": 3,
-            "name": "Hull City"
-        },
-        {
-            "position": 4,
-            "name": "Chelsea"
-        },
-        {
-            "position": 5,
-            "name": "Brentford"
-        },
-        {
-            "position": 6,
-            "name": "Liverpool"
-        },
-        {
-            "position": 7,
-            "name": "Newcastle"
-        },
-        {
-            "position": 8,
-            "name": "Everton"
-        },
-        {
-            "position": 9,
             "name": "Leeds"
         },
         {
-            "position": 10,
+            "position": 4,
+            "name": "Hull City"
+        },
+        {
+            "position": 5,
             "name": "Brighton"
         },
         {
+            "position": 6,
+            "name": "Chelsea"
+        },
+        {
+            "position": 7,
+            "name": "Brentford"
+        },
+        {
+            "position": 8,
+            "name": "Liverpool"
+        },
+        {
+            "position": 9,
+            "name": "Everton"
+        },
+        {
+            "position": 10,
+            "name": "Ipswich Town"
+        },
+        {
             "position": 11,
-            "name": "Man Utd"
+            "name": "Nott'm Forest"
         },
         {
             "position": 12,
-            "name": "Sunderland"
+            "name": "Newcastle"
         },
         {
             "position": 13,
-            "name": "Crystal Palace"
+            "name": "Man Utd"
         },
         {
             "position": 14,
-            "name": "Ipswich Town"
+            "name": "Sunderland"
         },
         {
             "position": 15,
@@ -510,19 +510,19 @@
         },
         {
             "position": 16,
-            "name": "Nott'm Forest"
+            "name": "Crystal Palace"
         },
         {
             "position": 17,
-            "name": "Aston Villa"
-        },
-        {
-            "position": 18,
             "name": "Spurs"
         },
         {
-            "position": 19,
+            "position": 18,
             "name": "Fulham"
+        },
+        {
+            "position": 19,
+            "name": "Aston Villa"
         },
         {
             "position": 20,
