@@ -357,8 +357,8 @@
             "total_points": 37
         },
         {
-            "first_name": "Joško",
-            "second_name": "Gvardiol",
+            "first_name": "Pascal",
+            "second_name": "Groß",
             "total_points": 33
         },
         {
@@ -367,13 +367,13 @@
             "total_points": 33
         },
         {
-            "first_name": "Pascal",
-            "second_name": "Groß",
+            "first_name": "Erling",
+            "second_name": "Haaland",
             "total_points": 33
         },
         {
-            "first_name": "Erling",
-            "second_name": "Haaland",
+            "first_name": "Joško",
+            "second_name": "Gvardiol",
             "total_points": 33
         },
         {
@@ -417,13 +417,13 @@
             "total_points": 29
         },
         {
-            "first_name": "Vitaly",
-            "second_name": "Janelt",
+            "first_name": "Cole",
+            "second_name": "Palmer",
             "total_points": 28
         },
         {
-            "first_name": "Cole",
-            "second_name": "Palmer",
+            "first_name": "Vitaly",
+            "second_name": "Janelt",
             "total_points": 28
         },
         {
@@ -819,8 +819,8 @@
         },
         {
             "gameweek": 5,
-            "team_h_score": null,
-            "team_a_score": null,
+            "team_h_score": 0.0,
+            "team_a_score": 0.0,
             "home_team": "Spurs",
             "away_team": "Aston Villa"
         },
