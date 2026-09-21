@@ -450,55 +450,55 @@
     "table": [
         {
             "position": 1,
-            "name": "Arsenal"
-        },
-        {
-            "position": 2,
             "name": "Man City"
         },
         {
+            "position": 2,
+            "name": "Arsenal"
+        },
+        {
             "position": 3,
-            "name": "Leeds"
-        },
-        {
-            "position": 4,
-            "name": "Hull City"
-        },
-        {
-            "position": 5,
             "name": "Brighton"
         },
         {
-            "position": 6,
-            "name": "Chelsea"
-        },
-        {
-            "position": 7,
+            "position": 4,
             "name": "Brentford"
         },
         {
-            "position": 8,
+            "position": 5,
+            "name": "Leeds"
+        },
+        {
+            "position": 6,
             "name": "Liverpool"
         },
         {
-            "position": 9,
+            "position": 7,
             "name": "Everton"
         },
         {
-            "position": 10,
-            "name": "Ipswich Town"
+            "position": 8,
+            "name": "Hull City"
         },
         {
-            "position": 11,
-            "name": "Nott'm Forest"
-        },
-        {
-            "position": 12,
+            "position": 9,
             "name": "Newcastle"
         },
         {
-            "position": 13,
+            "position": 10,
+            "name": "Chelsea"
+        },
+        {
+            "position": 11,
+            "name": "Ipswich Town"
+        },
+        {
+            "position": 12,
             "name": "Man Utd"
+        },
+        {
+            "position": 13,
+            "name": "Nott'm Forest"
         },
         {
             "position": 14,
@@ -506,27 +506,27 @@
         },
         {
             "position": 15,
-            "name": "Bournemouth"
-        },
-        {
-            "position": 16,
             "name": "Crystal Palace"
         },
         {
-            "position": 17,
-            "name": "Spurs"
-        },
-        {
-            "position": 18,
-            "name": "Fulham"
-        },
-        {
-            "position": 19,
+            "position": 16,
             "name": "Aston Villa"
         },
         {
-            "position": 20,
+            "position": 17,
+            "name": "Bournemouth"
+        },
+        {
+            "position": 18,
             "name": "Coventry City"
+        },
+        {
+            "position": 19,
+            "name": "Fulham"
+        },
+        {
+            "position": 20,
+            "name": "Spurs"
         }
     ],
     "matches": [
