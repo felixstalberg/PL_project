@@ -81,13 +81,13 @@
             "goals_scored": 2
         },
         {
-            "first_name": "Dan",
-            "second_name": "Ndoye",
+            "first_name": "Antoine",
+            "second_name": "Semenyo",
             "goals_scored": 2
         },
         {
-            "first_name": "Joe",
-            "second_name": "Willock",
+            "first_name": "Dan",
+            "second_name": "Ndoye",
             "goals_scored": 2
         },
         {
@@ -96,8 +96,8 @@
             "goals_scored": 2
         },
         {
-            "first_name": "Bruno",
-            "second_name": "Guimarães Rodriguez Moura",
+            "first_name": "Joe",
+            "second_name": "Willock",
             "goals_scored": 2
         }
     ],
@@ -108,14 +108,24 @@
             "assists": 5
         },
         {
+            "first_name": "Joško",
+            "second_name": "Gvardiol",
+            "assists": 4
+        },
+        {
             "first_name": "Cole",
             "second_name": "Palmer",
             "assists": 4
         },
         {
-            "first_name": "Joško",
-            "second_name": "Gvardiol",
-            "assists": 4
+            "first_name": "Declan",
+            "second_name": "Rice",
+            "assists": 3
+        },
+        {
+            "first_name": "Antoine",
+            "second_name": "Semenyo",
+            "assists": 3
         },
         {
             "first_name": "Cody",
@@ -123,8 +133,23 @@
             "assists": 3
         },
         {
-            "first_name": "Matheus",
-            "second_name": "Santos Carneiro da Cunha",
+            "first_name": "Diego",
+            "second_name": "Gómez Amarilla",
+            "assists": 3
+        },
+        {
+            "first_name": "João Pedro",
+            "second_name": "Junqueira de Jesus",
+            "assists": 3
+        },
+        {
+            "first_name": "Daichi",
+            "second_name": "Kamada",
+            "assists": 3
+        },
+        {
+            "first_name": "Francisco Evanilson",
+            "second_name": "de Lima Barbosa",
             "assists": 3
         },
         {
@@ -133,8 +158,8 @@
             "assists": 3
         },
         {
-            "first_name": "Declan",
-            "second_name": "Rice",
+            "first_name": "Matheus",
+            "second_name": "Santos Carneiro da Cunha",
             "assists": 3
         },
         {
@@ -148,29 +173,24 @@
             "assists": 3
         },
         {
-            "first_name": "Diego",
-            "second_name": "Gómez Amarilla",
-            "assists": 3
+            "first_name": "Florian",
+            "second_name": "Wirtz",
+            "assists": 2
         },
         {
-            "first_name": "Daichi",
-            "second_name": "Kamada",
-            "assists": 3
+            "first_name": "Oli",
+            "second_name": "McBurnie",
+            "assists": 2
         },
         {
-            "first_name": "João Pedro",
-            "second_name": "Junqueira de Jesus",
-            "assists": 3
+            "first_name": "Julio",
+            "second_name": "Enciso",
+            "assists": 2
         },
         {
-            "first_name": "Francisco Evanilson",
-            "second_name": "de Lima Barbosa",
-            "assists": 3
-        },
-        {
-            "first_name": "Antoine",
-            "second_name": "Semenyo",
-            "assists": 3
+            "first_name": "Leif",
+            "second_name": "Davis",
+            "assists": 2
         },
         {
             "first_name": "Alex",
@@ -178,28 +198,8 @@
             "assists": 2
         },
         {
-            "first_name": "Phil",
-            "second_name": "Foden",
-            "assists": 2
-        },
-        {
-            "first_name": "Rayan",
-            "second_name": "Cherki",
-            "assists": 2
-        },
-        {
-            "first_name": "Florian",
-            "second_name": "Wirtz",
-            "assists": 2
-        },
-        {
-            "first_name": "Johan",
-            "second_name": "Manzambi",
-            "assists": 2
-        },
-        {
-            "first_name": "Christos",
-            "second_name": "Tzolis",
+            "first_name": "Yéremy",
+            "second_name": "Pino Santos",
             "assists": 2
         }
     ],
@@ -226,13 +226,6 @@
             "goal_involvements": 6
         },
         {
-            "first_name": "Rayan",
-            "second_name": "Cherki",
-            "goals_scored": 4,
-            "assists": 2,
-            "goal_involvements": 6
-        },
-        {
             "first_name": "Cole",
             "second_name": "Palmer",
             "goals_scored": 2,
@@ -240,24 +233,17 @@
             "goal_involvements": 6
         },
         {
-            "first_name": "Joško",
-            "second_name": "Gvardiol",
-            "goals_scored": 1,
-            "assists": 4,
-            "goal_involvements": 5
+            "first_name": "Rayan",
+            "second_name": "Cherki",
+            "goals_scored": 4,
+            "assists": 2,
+            "goal_involvements": 6
         },
         {
             "first_name": "Antoine",
             "second_name": "Semenyo",
             "goals_scored": 2,
             "assists": 3,
-            "goal_involvements": 5
-        },
-        {
-            "first_name": "Mohamed",
-            "second_name": "Belloumi",
-            "goals_scored": 3,
-            "assists": 2,
             "goal_involvements": 5
         },
         {
@@ -268,17 +254,17 @@
             "goal_involvements": 5
         },
         {
-            "first_name": "Charalampos",
-            "second_name": "Kostoulas",
-            "goals_scored": 2,
-            "assists": 3,
+            "first_name": "Mohamed",
+            "second_name": "Belloumi",
+            "goals_scored": 3,
+            "assists": 2,
             "goal_involvements": 5
         },
         {
-            "first_name": "Maxim",
-            "second_name": "De Cuyper",
-            "goals_scored": 2,
-            "assists": 3,
+            "first_name": "Joško",
+            "second_name": "Gvardiol",
+            "goals_scored": 1,
+            "assists": 4,
             "goal_involvements": 5
         },
         {
@@ -289,15 +275,43 @@
             "goal_involvements": 5
         },
         {
-            "first_name": "Leif",
-            "second_name": "Davis",
+            "first_name": "Maxim",
+            "second_name": "De Cuyper",
             "goals_scored": 2,
-            "assists": 2,
+            "assists": 3,
+            "goal_involvements": 5
+        },
+        {
+            "first_name": "Charalampos",
+            "second_name": "Kostoulas",
+            "goals_scored": 2,
+            "assists": 3,
+            "goal_involvements": 5
+        },
+        {
+            "first_name": "Matheus",
+            "second_name": "Santos Carneiro da Cunha",
+            "goals_scored": 1,
+            "assists": 3,
             "goal_involvements": 4
         },
         {
-            "first_name": "Harvey",
-            "second_name": "Barnes",
+            "first_name": "Alexander",
+            "second_name": "Isak",
+            "goals_scored": 4,
+            "assists": 0,
+            "goal_involvements": 4
+        },
+        {
+            "first_name": "Cody",
+            "second_name": "Gakpo",
+            "goals_scored": 1,
+            "assists": 3,
+            "goal_involvements": 4
+        },
+        {
+            "first_name": "Daichi",
+            "second_name": "Kamada",
             "goals_scored": 1,
             "assists": 3,
             "goal_involvements": 4
@@ -310,13 +324,6 @@
             "goal_involvements": 4
         },
         {
-            "first_name": "Alexander",
-            "second_name": "Isak",
-            "goals_scored": 4,
-            "assists": 0,
-            "goal_involvements": 4
-        },
-        {
             "first_name": "Bryan",
             "second_name": "Mbeumo",
             "goals_scored": 3,
@@ -324,36 +331,29 @@
             "goal_involvements": 4
         },
         {
-            "first_name": "Daichi",
-            "second_name": "Kamada",
+            "first_name": "Harvey",
+            "second_name": "Barnes",
             "goals_scored": 1,
             "assists": 3,
             "goal_involvements": 4
         },
         {
-            "first_name": "Francisco Evanilson",
-            "second_name": "de Lima Barbosa",
-            "goals_scored": 1,
-            "assists": 3,
-            "goal_involvements": 4
-        },
-        {
-            "first_name": "Matheus",
-            "second_name": "Santos Carneiro da Cunha",
-            "goals_scored": 1,
-            "assists": 3,
+            "first_name": "Leif",
+            "second_name": "Davis",
+            "goals_scored": 2,
+            "assists": 2,
             "goal_involvements": 4
         }
     ],
     "top_fpl_points": [
         {
-            "first_name": "Maxim",
-            "second_name": "De Cuyper",
+            "first_name": "Pascal",
+            "second_name": "Groß",
             "total_points": 53
         },
         {
-            "first_name": "Pascal",
-            "second_name": "Groß",
+            "first_name": "Maxim",
+            "second_name": "De Cuyper",
             "total_points": 53
         },
         {
@@ -412,8 +412,8 @@
             "total_points": 37
         },
         {
-            "first_name": "Antoine",
-            "second_name": "Semenyo",
+            "first_name": "Matheus",
+            "second_name": "Santos Carneiro da Cunha",
             "total_points": 36
         },
         {
@@ -432,8 +432,8 @@
             "total_points": 36
         },
         {
-            "first_name": "Matheus",
-            "second_name": "Santos Carneiro da Cunha",
+            "first_name": "Antoine",
+            "second_name": "Semenyo",
             "total_points": 36
         },
         {
@@ -945,8 +945,8 @@
         },
         {
             "gameweek": 6,
-            "team_h_score": null,
-            "team_a_score": null,
+            "team_h_score": 4.0,
+            "team_a_score": 1.0,
             "home_team": "Coventry City",
             "away_team": "Newcastle"
         },
