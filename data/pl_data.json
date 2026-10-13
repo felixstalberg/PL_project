@@ -466,15 +466,15 @@
         },
         {
             "position": 5,
-            "name": "Leeds"
+            "name": "Everton"
         },
         {
             "position": 6,
-            "name": "Liverpool"
+            "name": "Chelsea"
         },
         {
             "position": 7,
-            "name": "Everton"
+            "name": "Leeds"
         },
         {
             "position": 8,
@@ -482,31 +482,31 @@
         },
         {
             "position": 9,
-            "name": "Newcastle"
+            "name": "Liverpool"
         },
         {
             "position": 10,
-            "name": "Chelsea"
-        },
-        {
-            "position": 11,
             "name": "Ipswich Town"
         },
         {
+            "position": 11,
+            "name": "Newcastle"
+        },
+        {
             "position": 12,
-            "name": "Man Utd"
+            "name": "Crystal Palace"
         },
         {
             "position": 13,
-            "name": "Nott'm Forest"
+            "name": "Man Utd"
         },
         {
             "position": 14,
-            "name": "Sunderland"
+            "name": "Coventry City"
         },
         {
             "position": 15,
-            "name": "Crystal Palace"
+            "name": "Nott'm Forest"
         },
         {
             "position": 16,
@@ -514,19 +514,19 @@
         },
         {
             "position": 17,
-            "name": "Bournemouth"
+            "name": "Sunderland"
         },
         {
             "position": 18,
-            "name": "Coventry City"
+            "name": "Bournemouth"
         },
         {
             "position": 19,
-            "name": "Fulham"
+            "name": "Spurs"
         },
         {
             "position": 20,
-            "name": "Spurs"
+            "name": "Fulham"
         }
     ],
     "matches": [
