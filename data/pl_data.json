@@ -81,13 +81,13 @@
             "goals_scored": 2
         },
         {
-            "first_name": "Kai",
-            "second_name": "Havertz",
+            "first_name": "Vitaly",
+            "second_name": "Janelt",
             "goals_scored": 2
         },
         {
-            "first_name": "Vitaly",
-            "second_name": "Janelt",
+            "first_name": "Kai",
+            "second_name": "Havertz",
             "goals_scored": 2
         },
         {
@@ -108,23 +108,18 @@
             "assists": 5
         },
         {
-            "first_name": "Joško",
-            "second_name": "Gvardiol",
-            "assists": 4
-        },
-        {
             "first_name": "Cole",
             "second_name": "Palmer",
             "assists": 4
         },
         {
-            "first_name": "Declan",
-            "second_name": "Rice",
-            "assists": 3
+            "first_name": "Joško",
+            "second_name": "Gvardiol",
+            "assists": 4
         },
         {
-            "first_name": "Matheus",
-            "second_name": "Santos Carneiro da Cunha",
+            "first_name": "Harvey",
+            "second_name": "Barnes",
             "assists": 3
         },
         {
@@ -133,13 +128,23 @@
             "assists": 3
         },
         {
+            "first_name": "Antoine",
+            "second_name": "Semenyo",
+            "assists": 3
+        },
+        {
+            "first_name": "Declan",
+            "second_name": "Rice",
+            "assists": 3
+        },
+        {
             "first_name": "Florian",
             "second_name": "Wirtz",
             "assists": 3
         },
         {
-            "first_name": "Harvey",
-            "second_name": "Barnes",
+            "first_name": "Cody",
+            "second_name": "Gakpo",
             "assists": 3
         },
         {
@@ -173,13 +178,8 @@
             "assists": 3
         },
         {
-            "first_name": "Antoine",
-            "second_name": "Semenyo",
-            "assists": 3
-        },
-        {
-            "first_name": "Cody",
-            "second_name": "Gakpo",
+            "first_name": "Matheus",
+            "second_name": "Santos Carneiro da Cunha",
             "assists": 3
         },
         {
@@ -193,13 +193,13 @@
             "assists": 2
         },
         {
-            "first_name": "Timothy",
-            "second_name": "Castagne",
+            "first_name": "Mohamed",
+            "second_name": "Belloumi",
             "assists": 2
         },
         {
-            "first_name": "Mohamed",
-            "second_name": "Belloumi",
+            "first_name": "Timothy",
+            "second_name": "Castagne",
             "assists": 2
         }
     ],
@@ -310,10 +310,10 @@
             "goal_involvements": 4
         },
         {
-            "first_name": "Pedro",
-            "second_name": "Lomba Neto",
-            "goals_scored": 3,
-            "assists": 1,
+            "first_name": "Cody",
+            "second_name": "Gakpo",
+            "goals_scored": 1,
+            "assists": 3,
             "goal_involvements": 4
         },
         {
@@ -331,10 +331,10 @@
             "goal_involvements": 4
         },
         {
-            "first_name": "Cody",
-            "second_name": "Gakpo",
-            "goals_scored": 1,
-            "assists": 3,
+            "first_name": "Johan",
+            "second_name": "Manzambi",
+            "goals_scored": 2,
+            "assists": 2,
             "goal_involvements": 4
         },
         {
@@ -407,13 +407,13 @@
             "total_points": 40
         },
         {
-            "first_name": "Konstantinos",
-            "second_name": "Tzolakis",
+            "first_name": "Mohamed",
+            "second_name": "Belloumi",
             "total_points": 39
         },
         {
-            "first_name": "Mohamed",
-            "second_name": "Belloumi",
+            "first_name": "Konstantinos",
+            "second_name": "Tzolakis",
             "total_points": 39
         },
         {
@@ -442,8 +442,8 @@
             "total_points": 36
         },
         {
-            "first_name": "Kiernan",
-            "second_name": "Dewsbury-Hall",
+            "first_name": "Lewis",
+            "second_name": "Hall",
             "total_points": 35
         }
     ],
@@ -981,7 +981,7 @@
         {
             "gameweek": 7,
             "team_h_score": 0.0,
-            "team_a_score": 0.0,
+            "team_a_score": 1.0,
             "home_team": "Newcastle",
             "away_team": "Aston Villa"
         },
