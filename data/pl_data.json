@@ -21,13 +21,13 @@
             "goals_scored": 4
         },
         {
-            "first_name": "Rayan",
-            "second_name": "Cherki",
+            "first_name": "Marcus",
+            "second_name": "Tavernier",
             "goals_scored": 4
         },
         {
-            "first_name": "Marcus",
-            "second_name": "Tavernier",
+            "first_name": "Rayan",
+            "second_name": "Cherki",
             "goals_scored": 4
         },
         {
@@ -36,18 +36,8 @@
             "goals_scored": 4
         },
         {
-            "first_name": "Brian",
-            "second_name": "Brobbey",
-            "goals_scored": 3
-        },
-        {
             "first_name": "Kevin",
             "second_name": "Schade",
-            "goals_scored": 3
-        },
-        {
-            "first_name": "Mohamed",
-            "second_name": "Belloumi",
             "goals_scored": 3
         },
         {
@@ -56,18 +46,8 @@
             "goals_scored": 3
         },
         {
-            "first_name": "Bruno",
-            "second_name": "Borges Fernandes",
-            "goals_scored": 3
-        },
-        {
-            "first_name": "Pascal",
-            "second_name": "Groß",
-            "goals_scored": 3
-        },
-        {
-            "first_name": "Charalampos",
-            "second_name": "Kostoulas",
+            "first_name": "Bukayo",
+            "second_name": "Saka",
             "goals_scored": 3
         },
         {
@@ -76,13 +56,28 @@
             "goals_scored": 3
         },
         {
+            "first_name": "Pascal",
+            "second_name": "Groß",
+            "goals_scored": 3
+        },
+        {
             "first_name": "Pedro",
             "second_name": "Lomba Neto",
             "goals_scored": 3
         },
         {
-            "first_name": "Bukayo",
-            "second_name": "Saka",
+            "first_name": "Charalampos",
+            "second_name": "Kostoulas",
+            "goals_scored": 3
+        },
+        {
+            "first_name": "Brian",
+            "second_name": "Brobbey",
+            "goals_scored": 3
+        },
+        {
+            "first_name": "Mohamed",
+            "second_name": "Belloumi",
             "goals_scored": 3
         },
         {
@@ -91,8 +86,13 @@
             "goals_scored": 3
         },
         {
-            "first_name": "Emersonn",
-            "second_name": "Correia da Silva",
+            "first_name": "Bruno",
+            "second_name": "Borges Fernandes",
+            "goals_scored": 3
+        },
+        {
+            "first_name": "Keane",
+            "second_name": "Lewis-Potter",
             "goals_scored": 2
         },
         {
@@ -133,23 +133,13 @@
             "assists": 4
         },
         {
-            "first_name": "Jorrel",
-            "second_name": "Hato",
+            "first_name": "João Pedro",
+            "second_name": "Junqueira de Jesus",
             "assists": 3
         },
         {
             "first_name": "Daichi",
             "second_name": "Kamada",
-            "assists": 3
-        },
-        {
-            "first_name": "Iliman",
-            "second_name": "Ndiaye",
-            "assists": 3
-        },
-        {
-            "first_name": "Antoine",
-            "second_name": "Semenyo",
             "assists": 3
         },
         {
@@ -168,8 +158,13 @@
             "assists": 3
         },
         {
-            "first_name": "João Pedro",
-            "second_name": "Junqueira de Jesus",
+            "first_name": "Iliman",
+            "second_name": "Ndiaye",
+            "assists": 3
+        },
+        {
+            "first_name": "Antoine",
+            "second_name": "Semenyo",
             "assists": 3
         },
         {
@@ -178,13 +173,18 @@
             "assists": 3
         },
         {
-            "first_name": "Matheus",
-            "second_name": "Santos Carneiro da Cunha",
+            "first_name": "Diego",
+            "second_name": "Gómez Amarilla",
             "assists": 3
         },
         {
-            "first_name": "Diego",
-            "second_name": "Gómez Amarilla",
+            "first_name": "Jorrel",
+            "second_name": "Hato",
+            "assists": 3
+        },
+        {
+            "first_name": "Matheus",
+            "second_name": "Santos Carneiro da Cunha",
             "assists": 3
         },
         {
@@ -193,13 +193,13 @@
             "assists": 2
         },
         {
-            "first_name": "Oli",
-            "second_name": "McBurnie",
+            "first_name": "Mamadou",
+            "second_name": "Sangaré",
             "assists": 2
         },
         {
-            "first_name": "Mamadou",
-            "second_name": "Sangaré",
+            "first_name": "Yéremy",
+            "second_name": "Pino Santos",
             "assists": 2
         }
     ],
@@ -233,17 +233,17 @@
             "goal_involvements": 7
         },
         {
-            "first_name": "Francisco Evanilson",
-            "second_name": "de Lima Barbosa",
-            "goals_scored": 2,
-            "assists": 4,
-            "goal_involvements": 6
-        },
-        {
             "first_name": "Rayan",
             "second_name": "Cherki",
             "goals_scored": 4,
             "assists": 2,
+            "goal_involvements": 6
+        },
+        {
+            "first_name": "Francisco Evanilson",
+            "second_name": "de Lima Barbosa",
+            "goals_scored": 2,
+            "assists": 4,
             "goal_involvements": 6
         },
         {
@@ -261,15 +261,8 @@
             "goal_involvements": 5
         },
         {
-            "first_name": "Morgan",
-            "second_name": "Rogers",
-            "goals_scored": 4,
-            "assists": 1,
-            "goal_involvements": 5
-        },
-        {
-            "first_name": "Antoine",
-            "second_name": "Semenyo",
+            "first_name": "Maxim",
+            "second_name": "De Cuyper",
             "goals_scored": 2,
             "assists": 3,
             "goal_involvements": 5
@@ -289,10 +282,17 @@
             "goal_involvements": 5
         },
         {
-            "first_name": "Bryan",
-            "second_name": "Mbeumo",
+            "first_name": "Morgan",
+            "second_name": "Rogers",
             "goals_scored": 4,
             "assists": 1,
+            "goal_involvements": 5
+        },
+        {
+            "first_name": "Antoine",
+            "second_name": "Semenyo",
+            "goals_scored": 2,
+            "assists": 3,
             "goal_involvements": 5
         },
         {
@@ -303,22 +303,15 @@
             "goal_involvements": 5
         },
         {
-            "first_name": "Maxim",
-            "second_name": "De Cuyper",
-            "goals_scored": 2,
-            "assists": 3,
+            "first_name": "Bryan",
+            "second_name": "Mbeumo",
+            "goals_scored": 4,
+            "assists": 1,
             "goal_involvements": 5
         },
         {
             "first_name": "Matheus",
             "second_name": "Santos Carneiro da Cunha",
-            "goals_scored": 1,
-            "assists": 3,
-            "goal_involvements": 4
-        },
-        {
-            "first_name": "Harvey",
-            "second_name": "Barnes",
             "goals_scored": 1,
             "assists": 3,
             "goal_involvements": 4
@@ -331,17 +324,24 @@
             "goal_involvements": 4
         },
         {
-            "first_name": "Declan",
-            "second_name": "Rice",
-            "goals_scored": 0,
-            "assists": 4,
+            "first_name": "Marcus",
+            "second_name": "Tavernier",
+            "goals_scored": 4,
+            "assists": 0,
             "goal_involvements": 4
         },
         {
-            "first_name": "Leif",
-            "second_name": "Davis",
-            "goals_scored": 2,
-            "assists": 2,
+            "first_name": "Bruno",
+            "second_name": "Borges Fernandes",
+            "goals_scored": 3,
+            "assists": 1,
+            "goal_involvements": 4
+        },
+        {
+            "first_name": "Harvey",
+            "second_name": "Barnes",
+            "goals_scored": 1,
+            "assists": 3,
             "goal_involvements": 4
         }
     ],
@@ -382,19 +382,14 @@
             "total_points": 45
         },
         {
-            "first_name": "Riccardo",
-            "second_name": "Calafiori",
-            "total_points": 44
-        },
-        {
             "first_name": "Rayan",
             "second_name": "Cherki",
             "total_points": 44
         },
         {
-            "first_name": "Marcus",
-            "second_name": "Tavernier",
-            "total_points": 42
+            "first_name": "Riccardo",
+            "second_name": "Calafiori",
+            "total_points": 44
         },
         {
             "first_name": "David",
@@ -404,6 +399,11 @@
         {
             "first_name": "Alexander",
             "second_name": "Isak",
+            "total_points": 42
+        },
+        {
+            "first_name": "Marcus",
+            "second_name": "Tavernier",
             "total_points": 42
         },
         {
@@ -422,19 +422,14 @@
             "total_points": 41
         },
         {
-            "first_name": "Morgan",
-            "second_name": "Rogers",
-            "total_points": 40
-        },
-        {
             "first_name": "Kevin",
             "second_name": "Schade",
             "total_points": 40
         },
         {
-            "first_name": "Mohamed",
-            "second_name": "Belloumi",
-            "total_points": 39
+            "first_name": "Morgan",
+            "second_name": "Rogers",
+            "total_points": 40
         },
         {
             "first_name": "Konstantinos",
@@ -442,8 +437,13 @@
             "total_points": 39
         },
         {
-            "first_name": "Bart",
-            "second_name": "Verbruggen",
+            "first_name": "Mohamed",
+            "second_name": "Belloumi",
+            "total_points": 39
+        },
+        {
+            "first_name": "Cole",
+            "second_name": "Palmer",
             "total_points": 38
         }
     ],
@@ -1015,8 +1015,8 @@
         },
         {
             "gameweek": 7,
-            "team_h_score": null,
-            "team_a_score": null,
+            "team_h_score": 1.0,
+            "team_a_score": 0.0,
             "home_team": "Spurs",
             "away_team": "Coventry City"
         },
@@ -1374,22 +1374,8 @@
             "gameweek": 13,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Aston Villa",
-            "away_team": "Everton"
-        },
-        {
-            "gameweek": 13,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Bournemouth",
-            "away_team": "Brighton"
-        },
-        {
-            "gameweek": 13,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Brentford",
-            "away_team": "Arsenal"
+            "home_team": "Coventry City",
+            "away_team": "Ipswich Town"
         },
         {
             "gameweek": 13,
@@ -1397,13 +1383,6 @@
             "team_a_score": null,
             "home_team": "Chelsea",
             "away_team": "Crystal Palace"
-        },
-        {
-            "gameweek": 13,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Coventry City",
-            "away_team": "Ipswich Town"
         },
         {
             "gameweek": 13,
@@ -1430,6 +1409,27 @@
             "gameweek": 13,
             "team_h_score": null,
             "team_a_score": null,
+            "home_team": "Aston Villa",
+            "away_team": "Everton"
+        },
+        {
+            "gameweek": 13,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Bournemouth",
+            "away_team": "Brighton"
+        },
+        {
+            "gameweek": 13,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Brentford",
+            "away_team": "Arsenal"
+        },
+        {
+            "gameweek": 13,
+            "team_h_score": null,
+            "team_a_score": null,
             "home_team": "Newcastle",
             "away_team": "Man Utd"
         },
@@ -1439,6 +1439,13 @@
             "team_a_score": null,
             "home_team": "Spurs",
             "away_team": "Fulham"
+        },
+        {
+            "gameweek": 14,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Chelsea",
+            "away_team": "Liverpool"
         },
         {
             "gameweek": 14,
@@ -1458,27 +1465,6 @@
             "gameweek": 14,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Brentford",
-            "away_team": "Man City"
-        },
-        {
-            "gameweek": 14,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Chelsea",
-            "away_team": "Liverpool"
-        },
-        {
-            "gameweek": 14,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Everton",
-            "away_team": "Fulham"
-        },
-        {
-            "gameweek": 14,
-            "team_h_score": null,
-            "team_a_score": null,
             "home_team": "Leeds",
             "away_team": "Ipswich Town"
         },
@@ -1493,15 +1479,29 @@
             "gameweek": 14,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Newcastle",
-            "away_team": "Sunderland"
+            "home_team": "Nott'm Forest",
+            "away_team": "Brighton"
         },
         {
             "gameweek": 14,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Nott'm Forest",
-            "away_team": "Brighton"
+            "home_team": "Brentford",
+            "away_team": "Man City"
+        },
+        {
+            "gameweek": 14,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Everton",
+            "away_team": "Fulham"
+        },
+        {
+            "gameweek": 14,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Newcastle",
+            "away_team": "Sunderland"
         },
         {
             "gameweek": 14,
@@ -1514,43 +1514,8 @@
             "gameweek": 15,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Arsenal",
-            "away_team": "Bournemouth"
-        },
-        {
-            "gameweek": 15,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Brighton",
-            "away_team": "Everton"
-        },
-        {
-            "gameweek": 15,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Coventry City",
-            "away_team": "Aston Villa"
-        },
-        {
-            "gameweek": 15,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Crystal Palace",
-            "away_team": "Man Utd"
-        },
-        {
-            "gameweek": 15,
-            "team_h_score": null,
-            "team_a_score": null,
             "home_team": "Fulham",
             "away_team": "Brentford"
-        },
-        {
-            "gameweek": 15,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Hull City",
-            "away_team": "Spurs"
         },
         {
             "gameweek": 15,
@@ -1577,22 +1542,43 @@
             "gameweek": 15,
             "team_h_score": null,
             "team_a_score": null,
+            "home_team": "Arsenal",
+            "away_team": "Bournemouth"
+        },
+        {
+            "gameweek": 15,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Brighton",
+            "away_team": "Everton"
+        },
+        {
+            "gameweek": 15,
+            "team_h_score": null,
+            "team_a_score": null,
             "home_team": "Sunderland",
             "away_team": "Nott'm Forest"
         },
         {
-            "gameweek": 16,
+            "gameweek": 15,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Arsenal",
+            "home_team": "Coventry City",
+            "away_team": "Aston Villa"
+        },
+        {
+            "gameweek": 15,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Crystal Palace",
             "away_team": "Man Utd"
         },
         {
-            "gameweek": 16,
+            "gameweek": 15,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Bournemouth",
-            "away_team": "Coventry City"
+            "home_team": "Hull City",
+            "away_team": "Spurs"
         },
         {
             "gameweek": 16,
@@ -1605,15 +1591,8 @@
             "gameweek": 16,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Brighton",
-            "away_team": "Ipswich Town"
-        },
-        {
-            "gameweek": 16,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Chelsea",
-            "away_team": "Aston Villa"
+            "home_team": "Bournemouth",
+            "away_team": "Coventry City"
         },
         {
             "gameweek": 16,
@@ -1621,13 +1600,6 @@
             "team_a_score": null,
             "home_team": "Leeds",
             "away_team": "Fulham"
-        },
-        {
-            "gameweek": 16,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Liverpool",
-            "away_team": "Spurs"
         },
         {
             "gameweek": 16,
@@ -1647,8 +1619,36 @@
             "gameweek": 16,
             "team_h_score": null,
             "team_a_score": null,
+            "home_team": "Liverpool",
+            "away_team": "Spurs"
+        },
+        {
+            "gameweek": 16,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Brighton",
+            "away_team": "Ipswich Town"
+        },
+        {
+            "gameweek": 16,
+            "team_h_score": null,
+            "team_a_score": null,
             "home_team": "Sunderland",
             "away_team": "Crystal Palace"
+        },
+        {
+            "gameweek": 16,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Arsenal",
+            "away_team": "Man Utd"
+        },
+        {
+            "gameweek": 16,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Chelsea",
+            "away_team": "Aston Villa"
         },
         {
             "gameweek": 17,
