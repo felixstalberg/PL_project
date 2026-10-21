@@ -26,43 +26,18 @@
             "goals_scored": 4
         },
         {
-            "first_name": "Morgan",
-            "second_name": "Rogers",
-            "goals_scored": 4
-        },
-        {
             "first_name": "Rayan",
             "second_name": "Cherki",
             "goals_scored": 4
         },
         {
-            "first_name": "Bukayo",
-            "second_name": "Saka",
-            "goals_scored": 3
+            "first_name": "Morgan",
+            "second_name": "Rogers",
+            "goals_scored": 4
         },
         {
-            "first_name": "Charalampos",
-            "second_name": "Kostoulas",
-            "goals_scored": 3
-        },
-        {
-            "first_name": "Thierno",
-            "second_name": "Barry",
-            "goals_scored": 3
-        },
-        {
-            "first_name": "Pedro",
-            "second_name": "Lomba Neto",
-            "goals_scored": 3
-        },
-        {
-            "first_name": "Kevin",
-            "second_name": "Schade",
-            "goals_scored": 3
-        },
-        {
-            "first_name": "Mohamed",
-            "second_name": "Belloumi",
+            "first_name": "Bruno",
+            "second_name": "Borges Fernandes",
             "goals_scored": 3
         },
         {
@@ -71,8 +46,23 @@
             "goals_scored": 3
         },
         {
-            "first_name": "Jack",
-            "second_name": "Hinshelwood",
+            "first_name": "Kevin",
+            "second_name": "Schade",
+            "goals_scored": 3
+        },
+        {
+            "first_name": "Pedro",
+            "second_name": "Lomba Neto",
+            "goals_scored": 3
+        },
+        {
+            "first_name": "Bukayo",
+            "second_name": "Saka",
+            "goals_scored": 3
+        },
+        {
+            "first_name": "Mohamed",
+            "second_name": "Belloumi",
             "goals_scored": 3
         },
         {
@@ -81,8 +71,13 @@
             "goals_scored": 3
         },
         {
-            "first_name": "Bruno",
-            "second_name": "Borges Fernandes",
+            "first_name": "Charalampos",
+            "second_name": "Kostoulas",
+            "goals_scored": 3
+        },
+        {
+            "first_name": "Jack",
+            "second_name": "Hinshelwood",
             "goals_scored": 3
         },
         {
@@ -91,13 +86,18 @@
             "goals_scored": 3
         },
         {
-            "first_name": "Johan",
-            "second_name": "Manzambi",
-            "goals_scored": 2
+            "first_name": "Thierno",
+            "second_name": "Barry",
+            "goals_scored": 3
         },
         {
             "first_name": "Antoine",
             "second_name": "Semenyo",
+            "goals_scored": 2
+        },
+        {
+            "first_name": "Victor",
+            "second_name": "Munoz",
             "goals_scored": 2
         }
     ],
@@ -108,23 +108,13 @@
             "assists": 6
         },
         {
-            "first_name": "Charalampos",
-            "second_name": "Kostoulas",
-            "assists": 4
-        },
-        {
-            "first_name": "Cole",
-            "second_name": "Palmer",
-            "assists": 4
-        },
-        {
             "first_name": "Joško",
             "second_name": "Gvardiol",
             "assists": 4
         },
         {
-            "first_name": "Francisco Evanilson",
-            "second_name": "de Lima Barbosa",
+            "first_name": "Charalampos",
+            "second_name": "Kostoulas",
             "assists": 4
         },
         {
@@ -133,19 +123,14 @@
             "assists": 4
         },
         {
-            "first_name": "Matheus",
-            "second_name": "Santos Carneiro da Cunha",
-            "assists": 3
+            "first_name": "Francisco Evanilson",
+            "second_name": "de Lima Barbosa",
+            "assists": 4
         },
         {
-            "first_name": "Iliman",
-            "second_name": "Ndiaye",
-            "assists": 3
-        },
-        {
-            "first_name": "João Pedro",
-            "second_name": "Junqueira de Jesus",
-            "assists": 3
+            "first_name": "Cole",
+            "second_name": "Palmer",
+            "assists": 4
         },
         {
             "first_name": "Jorrel",
@@ -155,26 +140,6 @@
         {
             "first_name": "Daichi",
             "second_name": "Kamada",
-            "assists": 3
-        },
-        {
-            "first_name": "Antoine",
-            "second_name": "Semenyo",
-            "assists": 3
-        },
-        {
-            "first_name": "Diego",
-            "second_name": "Gómez Amarilla",
-            "assists": 3
-        },
-        {
-            "first_name": "Harvey",
-            "second_name": "Barnes",
-            "assists": 3
-        },
-        {
-            "first_name": "Cody",
-            "second_name": "Gakpo",
             "assists": 3
         },
         {
@@ -188,18 +153,53 @@
             "assists": 3
         },
         {
+            "first_name": "Iliman",
+            "second_name": "Ndiaye",
+            "assists": 3
+        },
+        {
+            "first_name": "Antoine",
+            "second_name": "Semenyo",
+            "assists": 3
+        },
+        {
+            "first_name": "Matheus",
+            "second_name": "Santos Carneiro da Cunha",
+            "assists": 3
+        },
+        {
+            "first_name": "Harvey",
+            "second_name": "Barnes",
+            "assists": 3
+        },
+        {
+            "first_name": "Cody",
+            "second_name": "Gakpo",
+            "assists": 3
+        },
+        {
+            "first_name": "Diego",
+            "second_name": "Gómez Amarilla",
+            "assists": 3
+        },
+        {
+            "first_name": "João Pedro",
+            "second_name": "Junqueira de Jesus",
+            "assists": 3
+        },
+        {
+            "first_name": "Igor Thiago",
+            "second_name": "Nascimento Rodrigues",
+            "assists": 2
+        },
+        {
+            "first_name": "Yéremy",
+            "second_name": "Pino Santos",
+            "assists": 2
+        },
+        {
             "first_name": "Christos",
             "second_name": "Tzolis",
-            "assists": 2
-        },
-        {
-            "first_name": "Mohamed",
-            "second_name": "Belloumi",
-            "assists": 2
-        },
-        {
-            "first_name": "John",
-            "second_name": "McGinn",
             "assists": 2
         }
     ],
@@ -240,6 +240,13 @@
             "goal_involvements": 6
         },
         {
+            "first_name": "Francisco Evanilson",
+            "second_name": "de Lima Barbosa",
+            "goals_scored": 2,
+            "assists": 4,
+            "goal_involvements": 6
+        },
+        {
             "first_name": "Cole",
             "second_name": "Palmer",
             "goals_scored": 2,
@@ -247,11 +254,11 @@
             "goal_involvements": 6
         },
         {
-            "first_name": "Francisco Evanilson",
-            "second_name": "de Lima Barbosa",
+            "first_name": "Maxim",
+            "second_name": "De Cuyper",
             "goals_scored": 2,
-            "assists": 4,
-            "goal_involvements": 6
+            "assists": 3,
+            "goal_involvements": 5
         },
         {
             "first_name": "Joško",
@@ -261,17 +268,24 @@
             "goal_involvements": 5
         },
         {
+            "first_name": "Alexander",
+            "second_name": "Isak",
+            "goals_scored": 5,
+            "assists": 0,
+            "goal_involvements": 5
+        },
+        {
+            "first_name": "Antoine",
+            "second_name": "Semenyo",
+            "goals_scored": 2,
+            "assists": 3,
+            "goal_involvements": 5
+        },
+        {
             "first_name": "Kevin",
             "second_name": "Schade",
             "goals_scored": 3,
             "assists": 2,
-            "goal_involvements": 5
-        },
-        {
-            "first_name": "Maxim",
-            "second_name": "De Cuyper",
-            "goals_scored": 2,
-            "assists": 3,
             "goal_involvements": 5
         },
         {
@@ -289,20 +303,6 @@
             "goal_involvements": 5
         },
         {
-            "first_name": "Antoine",
-            "second_name": "Semenyo",
-            "goals_scored": 2,
-            "assists": 3,
-            "goal_involvements": 5
-        },
-        {
-            "first_name": "Alexander",
-            "second_name": "Isak",
-            "goals_scored": 5,
-            "assists": 0,
-            "goal_involvements": 5
-        },
-        {
             "first_name": "Bryan",
             "second_name": "Mbeumo",
             "goals_scored": 4,
@@ -310,8 +310,15 @@
             "goal_involvements": 5
         },
         {
-            "first_name": "Dominic",
-            "second_name": "Calvert-Lewin",
+            "first_name": "Matheus",
+            "second_name": "Santos Carneiro da Cunha",
+            "goals_scored": 1,
+            "assists": 3,
+            "goal_involvements": 4
+        },
+        {
+            "first_name": "Bruno",
+            "second_name": "Borges Fernandes",
             "goals_scored": 3,
             "assists": 1,
             "goal_involvements": 4
@@ -324,24 +331,17 @@
             "goal_involvements": 4
         },
         {
-            "first_name": "Declan",
-            "second_name": "Rice",
-            "goals_scored": 0,
-            "assists": 4,
-            "goal_involvements": 4
-        },
-        {
-            "first_name": "Matheus",
-            "second_name": "Santos Carneiro da Cunha",
+            "first_name": "Diego",
+            "second_name": "Gómez Amarilla",
             "goals_scored": 1,
             "assists": 3,
             "goal_involvements": 4
         },
         {
-            "first_name": "Harvey",
-            "second_name": "Barnes",
-            "goals_scored": 1,
-            "assists": 3,
+            "first_name": "Marcus",
+            "second_name": "Tavernier",
+            "goals_scored": 4,
+            "assists": 0,
             "goal_involvements": 4
         }
     ],
@@ -352,13 +352,13 @@
             "total_points": 59
         },
         {
-            "first_name": "Erling",
-            "second_name": "Haaland",
+            "first_name": "Pascal",
+            "second_name": "Groß",
             "total_points": 58
         },
         {
-            "first_name": "Pascal",
-            "second_name": "Groß",
+            "first_name": "Erling",
+            "second_name": "Haaland",
             "total_points": 58
         },
         {
@@ -392,11 +392,6 @@
             "total_points": 44
         },
         {
-            "first_name": "Alexander",
-            "second_name": "Isak",
-            "total_points": 42
-        },
-        {
             "first_name": "Marcus",
             "second_name": "Tavernier",
             "total_points": 42
@@ -404,6 +399,11 @@
         {
             "first_name": "David",
             "second_name": "Raya Martín",
+            "total_points": 42
+        },
+        {
+            "first_name": "Alexander",
+            "second_name": "Isak",
             "total_points": 42
         },
         {
@@ -442,8 +442,8 @@
             "total_points": 39
         },
         {
-            "first_name": "Bart",
-            "second_name": "Verbruggen",
+            "first_name": "Cole",
+            "second_name": "Palmer",
             "total_points": 38
         }
     ],
