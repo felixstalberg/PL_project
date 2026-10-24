@@ -362,13 +362,13 @@
             "total_points": 58
         },
         {
-            "first_name": "Luka",
-            "second_name": "Vušković",
-            "total_points": 51
-        },
-        {
             "first_name": "Gabriel",
             "second_name": "dos Santos Magalhães",
+            "total_points": 52
+        },
+        {
+            "first_name": "Luka",
+            "second_name": "Vušković",
             "total_points": 51
         },
         {
@@ -437,14 +437,14 @@
             "total_points": 41
         },
         {
-            "first_name": "Ezri",
-            "second_name": "Konsa Ngoyo",
-            "total_points": 40
-        },
-        {
             "first_name": "Kevin",
             "second_name": "Schade",
             "total_points": 40
+        },
+        {
+            "first_name": "Declan",
+            "second_name": "Rice",
+            "total_points": 39
         }
     ],
     "table": [
