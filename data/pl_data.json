@@ -372,14 +372,24 @@
             "total_points": 58
         },
         {
-            "first_name": "James",
-            "second_name": "Tarkowski",
+            "first_name": "Jayden",
+            "second_name": "Bogle",
+            "total_points": 58
+        },
+        {
+            "first_name": "Jan Paul",
+            "second_name": "van Hecke",
+            "total_points": 57
+        },
+        {
+            "first_name": "Tarik",
+            "second_name": "Muharemović",
             "total_points": 56
         },
         {
-            "first_name": "Thierno",
-            "second_name": "Barry",
-            "total_points": 55
+            "first_name": "James",
+            "second_name": "Tarkowski",
+            "total_points": 56
         },
         {
             "first_name": "Marcus",
@@ -387,14 +397,19 @@
             "total_points": 55
         },
         {
-            "first_name": "David",
-            "second_name": "Raya Martín",
+            "first_name": "Thierno",
+            "second_name": "Barry",
+            "total_points": 55
+        },
+        {
+            "first_name": "James",
+            "second_name": "Trafford",
             "total_points": 54
         },
         {
-            "first_name": "Jan Paul",
-            "second_name": "van Hecke",
-            "total_points": 53
+            "first_name": "David",
+            "second_name": "Raya Martín",
+            "total_points": 54
         },
         {
             "first_name": "Alexander",
@@ -407,8 +422,8 @@
             "total_points": 52
         },
         {
-            "first_name": "Jayden",
-            "second_name": "Bogle",
+            "first_name": "Riccardo",
+            "second_name": "Calafiori",
             "total_points": 51
         },
         {
@@ -417,14 +432,9 @@
             "total_points": 51
         },
         {
-            "first_name": "Riccardo",
-            "second_name": "Calafiori",
+            "first_name": "James",
+            "second_name": "Justin",
             "total_points": 51
-        },
-        {
-            "first_name": "Kiernan",
-            "second_name": "Dewsbury-Hall",
-            "total_points": 50
         },
         {
             "first_name": "Morgan",
@@ -432,19 +442,9 @@
             "total_points": 50
         },
         {
-            "first_name": "Ezri",
-            "second_name": "Konsa Ngoyo",
-            "total_points": 49
-        },
-        {
-            "first_name": "Mohamed",
-            "second_name": "Belloumi",
-            "total_points": 48
-        },
-        {
-            "first_name": "Declan",
-            "second_name": "Rice",
-            "total_points": 47
+            "first_name": "Kiernan",
+            "second_name": "Dewsbury-Hall",
+            "total_points": 50
         }
     ],
     "table": [
@@ -1169,8 +1169,8 @@
         },
         {
             "gameweek": 10,
-            "team_h_score": null,
-            "team_a_score": null,
+            "team_h_score": 1.0,
+            "team_a_score": 0.0,
             "home_team": "Leeds",
             "away_team": "Spurs"
         },
