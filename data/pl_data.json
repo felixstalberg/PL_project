@@ -454,35 +454,35 @@
         },
         {
             "position": 2,
-            "name": "Man City"
-        },
-        {
-            "position": 3,
             "name": "Brighton"
         },
         {
-            "position": 4,
-            "name": "Chelsea"
+            "position": 3,
+            "name": "Man City"
         },
         {
-            "position": 5,
+            "position": 4,
             "name": "Liverpool"
         },
         {
-            "position": 6,
-            "name": "Brentford"
+            "position": 5,
+            "name": "Chelsea"
         },
         {
-            "position": 7,
+            "position": 6,
             "name": "Everton"
         },
         {
-            "position": 8,
+            "position": 7,
             "name": "Bournemouth"
         },
         {
+            "position": 8,
+            "name": "Brentford"
+        },
+        {
             "position": 9,
-            "name": "Spurs"
+            "name": "Leeds"
         },
         {
             "position": 10,
@@ -490,15 +490,15 @@
         },
         {
             "position": 11,
-            "name": "Hull City"
+            "name": "Spurs"
         },
         {
             "position": 12,
-            "name": "Leeds"
+            "name": "Newcastle"
         },
         {
             "position": 13,
-            "name": "Newcastle"
+            "name": "Hull City"
         },
         {
             "position": 14,
@@ -510,23 +510,23 @@
         },
         {
             "position": 16,
-            "name": "Coventry City"
-        },
-        {
-            "position": 17,
-            "name": "Man Utd"
-        },
-        {
-            "position": 18,
-            "name": "Crystal Palace"
-        },
-        {
-            "position": 19,
             "name": "Nott'm Forest"
         },
         {
-            "position": 20,
+            "position": 17,
+            "name": "Coventry City"
+        },
+        {
+            "position": 18,
+            "name": "Man Utd"
+        },
+        {
+            "position": 19,
             "name": "Sunderland"
+        },
+        {
+            "position": 20,
+            "name": "Crystal Palace"
         }
     ],
     "matches": [
