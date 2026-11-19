@@ -1934,22 +1934,8 @@
             "gameweek": 21,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Aston Villa",
-            "away_team": "Man Utd"
-        },
-        {
-            "gameweek": 21,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Bournemouth",
-            "away_team": "Ipswich Town"
-        },
-        {
-            "gameweek": 21,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Brentford",
-            "away_team": "Brighton"
+            "home_team": "Coventry City",
+            "away_team": "Everton"
         },
         {
             "gameweek": 21,
@@ -1957,13 +1943,6 @@
             "team_a_score": null,
             "home_team": "Chelsea",
             "away_team": "Sunderland"
-        },
-        {
-            "gameweek": 21,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Coventry City",
-            "away_team": "Everton"
         },
         {
             "gameweek": 21,
@@ -1997,8 +1976,43 @@
             "gameweek": 21,
             "team_h_score": null,
             "team_a_score": null,
+            "home_team": "Aston Villa",
+            "away_team": "Man Utd"
+        },
+        {
+            "gameweek": 21,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Bournemouth",
+            "away_team": "Ipswich Town"
+        },
+        {
+            "gameweek": 21,
+            "team_h_score": null,
+            "team_a_score": null,
             "home_team": "Spurs",
             "away_team": "Leeds"
+        },
+        {
+            "gameweek": 21,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Brentford",
+            "away_team": "Brighton"
+        },
+        {
+            "gameweek": 22,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Fulham",
+            "away_team": "Aston Villa"
+        },
+        {
+            "gameweek": 22,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Ipswich Town",
+            "away_team": "Hull City"
         },
         {
             "gameweek": 22,
@@ -2032,22 +2046,15 @@
             "gameweek": 22,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Fulham",
-            "away_team": "Aston Villa"
+            "home_team": "Nott'm Forest",
+            "away_team": "Bournemouth"
         },
         {
             "gameweek": 22,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Ipswich Town",
-            "away_team": "Hull City"
-        },
-        {
-            "gameweek": 22,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Leeds",
-            "away_team": "Chelsea"
+            "home_team": "Sunderland",
+            "away_team": "Coventry City"
         },
         {
             "gameweek": 22,
@@ -2060,15 +2067,15 @@
             "gameweek": 22,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Nott'm Forest",
-            "away_team": "Bournemouth"
+            "home_team": "Leeds",
+            "away_team": "Chelsea"
         },
         {
-            "gameweek": 22,
+            "gameweek": 23,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Sunderland",
-            "away_team": "Coventry City"
+            "home_team": "Liverpool",
+            "away_team": "Everton"
         },
         {
             "gameweek": 23,
@@ -2081,15 +2088,8 @@
             "gameweek": 23,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Bournemouth",
-            "away_team": "Fulham"
-        },
-        {
-            "gameweek": 23,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Brentford",
-            "away_team": "Man Utd"
+            "home_team": "Newcastle",
+            "away_team": "Brighton"
         },
         {
             "gameweek": 23,
@@ -2097,6 +2097,13 @@
             "team_a_score": null,
             "home_team": "Chelsea",
             "away_team": "Nott'm Forest"
+        },
+        {
+            "gameweek": 23,
+            "team_h_score": null,
+            "team_a_score": null,
+            "home_team": "Bournemouth",
+            "away_team": "Fulham"
         },
         {
             "gameweek": 23,
@@ -2116,8 +2123,8 @@
             "gameweek": 23,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Liverpool",
-            "away_team": "Everton"
+            "home_team": "Spurs",
+            "away_team": "Sunderland"
         },
         {
             "gameweek": 23,
@@ -2130,15 +2137,8 @@
             "gameweek": 23,
             "team_h_score": null,
             "team_a_score": null,
-            "home_team": "Newcastle",
-            "away_team": "Brighton"
-        },
-        {
-            "gameweek": 23,
-            "team_h_score": null,
-            "team_a_score": null,
-            "home_team": "Spurs",
-            "away_team": "Sunderland"
+            "home_team": "Brentford",
+            "away_team": "Man Utd"
         },
         {
             "gameweek": 24,
