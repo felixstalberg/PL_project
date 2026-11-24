@@ -66,6 +66,11 @@
             "goals_scored": 4
         },
         {
+            "first_name": "Keane",
+            "second_name": "Lewis-Potter",
+            "goals_scored": 4
+        },
+        {
             "first_name": "Pascal",
             "second_name": "Groß",
             "goals_scored": 4
@@ -81,6 +86,11 @@
             "goals_scored": 3
         },
         {
+            "first_name": "Vitaly",
+            "second_name": "Janelt",
+            "goals_scored": 3
+        },
+        {
             "first_name": "Kiernan",
             "second_name": "Dewsbury-Hall",
             "goals_scored": 3
@@ -88,16 +98,6 @@
         {
             "first_name": "Liam",
             "second_name": "Delap",
-            "goals_scored": 3
-        },
-        {
-            "first_name": "Jack",
-            "second_name": "Hinshelwood",
-            "goals_scored": 3
-        },
-        {
-            "first_name": "Harvey",
-            "second_name": "Barnes",
             "goals_scored": 3
         }
     ],
@@ -138,8 +138,8 @@
             "assists": 4
         },
         {
-            "first_name": "Matheus",
-            "second_name": "Santos Carneiro da Cunha",
+            "first_name": "Charalampos",
+            "second_name": "Kostoulas",
             "assists": 4
         },
         {
@@ -153,13 +153,13 @@
             "assists": 4
         },
         {
-            "first_name": "Charalampos",
-            "second_name": "Kostoulas",
+            "first_name": "Jaidon",
+            "second_name": "Anthony",
             "assists": 4
         },
         {
-            "first_name": "John",
-            "second_name": "McGinn",
+            "first_name": "Matheus",
+            "second_name": "Santos Carneiro da Cunha",
             "assists": 4
         },
         {
@@ -168,9 +168,9 @@
             "assists": 4
         },
         {
-            "first_name": "Harvey",
-            "second_name": "Barnes",
-            "assists": 3
+            "first_name": "John",
+            "second_name": "McGinn",
+            "assists": 4
         },
         {
             "first_name": "Morgan",
@@ -178,8 +178,8 @@
             "assists": 3
         },
         {
-            "first_name": "Igor Thiago",
-            "second_name": "Nascimento Rodrigues",
+            "first_name": "Harvey",
+            "second_name": "Barnes",
             "assists": 3
         },
         {
@@ -193,8 +193,8 @@
             "assists": 3
         },
         {
-            "first_name": "Oli",
-            "second_name": "McBurnie",
+            "first_name": "Diego",
+            "second_name": "Gómez Amarilla",
             "assists": 3
         },
         {
@@ -407,13 +407,13 @@
             "total_points": 60
         },
         {
-            "first_name": "Bart",
-            "second_name": "Verbruggen",
+            "first_name": "Konstantinos",
+            "second_name": "Tzolakis",
             "total_points": 59
         },
         {
-            "first_name": "Konstantinos",
-            "second_name": "Tzolakis",
+            "first_name": "Bart",
+            "second_name": "Verbruggen",
             "total_points": 59
         },
         {
@@ -432,8 +432,8 @@
             "total_points": 58
         },
         {
-            "first_name": "James",
-            "second_name": "Tarkowski",
+            "first_name": "Thierno",
+            "second_name": "Barry",
             "total_points": 57
         },
         {
@@ -1295,7 +1295,7 @@
         },
         {
             "gameweek": 11,
-            "team_h_score": 0.0,
+            "team_h_score": 4.0,
             "team_a_score": 0.0,
             "home_team": "Brentford",
             "away_team": "Everton"
