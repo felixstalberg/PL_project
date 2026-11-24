@@ -466,43 +466,43 @@
         },
         {
             "position": 5,
-            "name": "Chelsea"
-        },
-        {
-            "position": 6,
-            "name": "Everton"
-        },
-        {
-            "position": 7,
             "name": "Bournemouth"
         },
         {
-            "position": 8,
+            "position": 6,
             "name": "Brentford"
         },
         {
-            "position": 9,
+            "position": 7,
             "name": "Leeds"
         },
         {
-            "position": 10,
-            "name": "Aston Villa"
+            "position": 8,
+            "name": "Chelsea"
         },
         {
-            "position": 11,
+            "position": 9,
+            "name": "Everton"
+        },
+        {
+            "position": 10,
             "name": "Spurs"
         },
         {
-            "position": 12,
-            "name": "Newcastle"
-        },
-        {
-            "position": 13,
+            "position": 11,
             "name": "Hull City"
         },
         {
+            "position": 12,
+            "name": "Aston Villa"
+        },
+        {
+            "position": 13,
+            "name": "Newcastle"
+        },
+        {
             "position": 14,
-            "name": "Ipswich Town"
+            "name": "Coventry City"
         },
         {
             "position": 15,
@@ -510,19 +510,19 @@
         },
         {
             "position": 16,
-            "name": "Nott'm Forest"
+            "name": "Ipswich Town"
         },
         {
             "position": 17,
-            "name": "Coventry City"
+            "name": "Nott'm Forest"
         },
         {
             "position": 18,
-            "name": "Man Utd"
+            "name": "Sunderland"
         },
         {
             "position": 19,
-            "name": "Sunderland"
+            "name": "Man Utd"
         },
         {
             "position": 20,
